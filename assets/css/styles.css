@@ -17,7 +17,7 @@
   font-family: Inter, Pretendard, "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 * { box-sizing: border-box; }
-html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: var(--bg); color: var(--text); }
+html, body { width: 100%; height: 100%; height: 100dvh; margin: 0; overflow: hidden; background: var(--bg); color: var(--text); }
 body { min-width: 320px; }
 button, input, select { font: inherit; }
 button { color: inherit; }
@@ -204,37 +204,69 @@ button:focus-visible, input:focus-visible, select:focus-visible, #map:focus-visi
   .speed-control span { display: none; }
 }
 @media (max-width: 680px) {
-  .app-shell { grid-template-rows: 58px 48px 1fr; }
-  .topbar { padding: 7px 10px; }
+  :root { --radius-xl: 22px; }
+  .app-shell { height: 100dvh; grid-template-rows: 64px 54px minmax(0, 1fr); }
+  .topbar { padding: 8px 9px; gap: 6px; background: rgba(255,255,255,.96); }
   .brand strong { display: none; }
-  .brand-mark { width: 38px; height: 38px; }
-  .search-wrap input { height: 40px; font-size: 13px; }
-  .place-language-control select { width: 64px; height: 36px; padding-left: 7px; font-size: 10px; }
-  .journey-tabs { padding: 6px 10px; }
-  .journey-tab { height: 34px; padding-inline: 13px; font-size: 12px; }
-  .hero-card { left: 12px; top: 12px; width: calc(100% - 24px); padding: 22px; border-radius: 22px; }
-  .hero-card h1 { font-size: 33px; letter-spacing: -1.5px; }
+  .brand { padding: 0; }
+  .brand-mark { width: 44px; height: 44px; border-radius: 14px; font-size: 21px; }
+  .search-wrap { min-width: 0; }
+  .search-wrap input { height: 46px; padding-left: 39px; font-size: 15px; border-radius: 13px; }
+  .search-icon { left: 12px; font-size: 21px; }
+  .place-language-control select { width: 70px; height: 44px; padding-left: 8px; border-radius: 12px; font-size: 12px; }
+  .info-button { width: 42px; height: 42px; font-size: 22px; }
+  .journey-tabs { gap: 7px; padding: 8px 10px; background: rgba(255,255,255,.96); }
+  .journey-tab { height: 38px; padding-inline: 15px; font-size: 13px; }
+  .hero-card { left: 10px; top: 10px; width: calc(100% - 20px); padding: 20px; border-radius: 20px; }
+  .hero-card h1 { margin-block: 7px 10px; font-size: 29px; line-height: 1.12; letter-spacing: -1.2px; }
+  .hero-card p { font-size: 14px; line-height: 1.55; }
+  .primary-button { min-height: 50px; font-size: 14px; }
   .hero-meta { justify-content: space-between; gap: 6px; }
-  .detail-panel { position: absolute; left: 0; right: 0; top: auto; bottom: 0; width: 100%; height: min(68vh, 610px); border-radius: 24px 24px 0 0; border-bottom: 0; animation: sheet-in .28s ease-out; }
+  .detail-panel { position: absolute; left: 0; right: 0; top: auto; bottom: 0; width: 100%; height: min(78dvh, 720px); border-radius: 24px 24px 0 0; border-bottom: 0; animation: sheet-in .28s ease-out; }
   @keyframes sheet-in { from { transform: translateY(60px); opacity: 0; } }
-  .panel-drag { display: block; position: absolute; z-index: 3; top: 8px; left: 50%; transform: translateX(-50%); width: 42px; height: 4px; border-radius: 999px; background: #d7dce5; }
-  .panel-close { top: 17px; }
-  .panel-visual { height: 118px; }
-  .panel-body { padding: 19px 18px; }
-  .panel-title-row h2 { font-size: 24px; }
-  .timeline { left: 10px; right: 10px; bottom: calc(10px + var(--safe-bottom)); transform: none; width: auto; min-height: 58px; padding: 7px 9px; border-radius: 17px; }
-  .timeline-primary { gap: 3px; }
-  .round-button { width: 32px; height: 32px; }
-  .play-button { width: 38px; height: 38px; }
-  .timeline-copy strong { font-size: 11px; }
-  .timeline-copy span { font-size: 9px; }
+  .panel-drag { display: block; position: absolute; z-index: 3; top: 9px; left: 50%; transform: translateX(-50%); width: 48px; height: 5px; border-radius: 999px; background: #cbd2dd; }
+  .panel-close { top: 18px; right: 14px; width: 44px; height: 44px; font-size: 27px; }
+  .panel-visual { height: 132px; }
+  .panel-body { padding: 22px 17px calc(30px + var(--safe-bottom)); }
+  .panel-title-row h2 { font-size: 29px; }
+  .panel-title-row .modern-name { font-size: 14px; line-height: 1.55; }
+  .panel-summary { font-size: 15px; line-height: 1.7; }
+  .panel-section { margin-top: 27px; }
+  .panel-section h3 { font-size: 17px; }
+  .panel-section p { font-size: 14px; line-height: 1.7; }
+  .info-cell { min-height: 74px; padding: 12px; }
+  .info-cell dt { font-size: 11px; }
+  .info-cell dd { font-size: 13px; }
+  .expandable-card summary { min-height: 70px; padding: 12px; }
+  .card-summary-copy strong { font-size: 14px; line-height: 1.4; }
+  .card-summary-copy small { font-size: 13px; }
+  .card-details { padding: 4px 12px 15px 50px; }
+  .event-card .card-details { padding-left: 12px; }
+  .card-details > p { font-size: 14px; }
+  .detail-facts div { grid-template-columns: 82px 1fr; padding: 10px; }
+  .detail-facts dt, .detail-facts dd { font-size: 12px; }
+  .reference-list li, .people-list li, .letter-list li, .source-list li { font-size: 13px; line-height: 1.55; }
+  .bible-reference-card summary { min-height: 54px; font-size: 14px; }
+  .timeline { left: 8px; right: 8px; bottom: calc(8px + var(--safe-bottom)); transform: none; width: auto; min-height: 72px; padding: 9px 10px; border-radius: 19px; gap: 9px; }
+  .timeline-primary { gap: 4px; }
+  .round-button { width: 42px; height: 42px; font-size: 25px; }
+  .play-button { width: 48px; height: 48px; font-size: 15px; }
+  .timeline-copy strong { font-size: 13px; }
+  .timeline-copy span { margin-top: 4px; font-size: 11px; line-height: 1.35; white-space: normal; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
   .speed-control { display: none; }
-  .map-legend { left: 10px; bottom: 80px; padding: 7px 9px; }
+  .map-legend { left: 10px; bottom: 94px; padding: 8px 10px; font-size: 11px; }
   .map-legend span:last-child { display: none; }
   .leaflet-control-zoom { margin-top: 12px !important; margin-left: 10px !important; }
+  .leaflet-control-zoom a { width: 42px !important; height: 42px !important; line-height: 42px !important; font-size: 23px !important; }
+  .marker-shell { transform: scale(1.18); }
+  .leaflet-tooltip.map-place-label { padding: 5px 8px; border-radius: 8px; font-size: 13px; font-weight: 800; }
+  .leaflet-tooltip.place-tooltip:not(.map-place-label) { font-size: 13px; }
   .leaflet-control-attribution { max-width: 70%; overflow: hidden; white-space: nowrap; }
   body.panel-open .timeline, body.panel-open .map-legend { opacity: 0; pointer-events: none; }
-  .search-results { position: fixed; left: 10px; right: 10px; top: 55px; max-height: 55vh; }
+  .search-results { position: fixed; left: 8px; right: 8px; top: 62px; max-height: 60dvh; }
+  .search-result { min-height: 58px; }
+  .search-result strong { font-size: 15px; }
+  .search-result small { font-size: 12px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }

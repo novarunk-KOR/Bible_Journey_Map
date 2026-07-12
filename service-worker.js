@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bible-journey-map-v1.1.0';
+const CACHE_NAME = 'bible-journey-map-v1.2.0';
 const LOCAL_ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './assets/css/styles.css', './assets/js/app.js', './assets/js/data-service.js',
