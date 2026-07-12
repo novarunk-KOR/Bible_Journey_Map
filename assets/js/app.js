@@ -399,8 +399,7 @@ function renderPlacePanel(place, selectedStopId) {
     : '<li>직접 연결되는 신약 서신 정보가 확정적으로 기록되지 않았습니다.</li>';
 
   const sourceItems = [
-    ...place.bibleReferences.map(ref => `<li><strong>개역개정</strong> · ${escapeHtml(formatBibleReference(ref))}</li>`),
-    `<li><strong>Coordinate note</strong> · ${escapeHtml(place.coordinates.precision)} representative point; 고대 유적·현대 비정·지역 중심의 근사 좌표</li>`
+    ...place.bibleReferences.map(ref => `<li><strong>개역개정</strong> · ${escapeHtml(formatBibleReference(ref))}</li>`)
   ].join('');
 
   const bibleReferenceCards = place.bibleReferences.map(ref => {
@@ -433,8 +432,6 @@ function renderPlacePanel(place, selectedStopId) {
       <p class="panel-summary">${escapeHtml(place.summary)}</p>
       <dl class="info-grid">
         <div class="info-cell"><dt>현재 국가</dt><dd>${escapeHtml(country?.nameKo || '확인 필요')}</dd></div>
-        <div class="info-cell"><dt>좌표</dt><dd>${place.coordinates.lat.toFixed(4)}, ${place.coordinates.lng.toFixed(4)}</dd></div>
-        <div class="info-cell"><dt>좌표 정밀도</dt><dd>${escapeHtml(place.coordinates.precision)}</dd></div>
         <div class="info-cell"><dt>방문 상태</dt><dd>${place.status === 'unreached' ? '목적지였으나 미도착' : place.status === 'nearby' ? '인근 언급' : '방문·통과 기록'}</dd></div>
       </dl>
 
