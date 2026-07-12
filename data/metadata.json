@@ -1,0 +1,22 @@
+{
+  "project": "Bible Journey Map",
+  "version": "1.0.0",
+  "language": "ko",
+  "lastReviewed": "2026-07-12",
+  "scope": "Paul's first, second, third missionary journeys and voyage to Rome",
+  "primaryText": "Acts 13-14; 15:36-18:22; 18:23-21:17; 27-28",
+  "confidenceDefinitions": {
+    "explicit": "성경 본문에 장소·사건·이동이 직접 기록됨",
+    "inferred": "본문의 흐름에서 합리적으로 추론되지만 직접 명시되지 않음",
+    "historical": "고대 지명 비정·연대·배경 등 역사·고고학 자료에 근거",
+    "disputed": "지명, 연대, 서신 관계 등에 학설 차이가 있음"
+  },
+  "coordinatePolicy": "Coordinates are approximate representative points for ancient sites, modern equivalents, regions, or sea waypoints. They are not navigation-grade data.",
+  "qaNotes": [
+    "Acts 18:22의 ‘올라가 교회에 문안’은 예루살렘 방문으로 보는 일반적 해석을 inferred로 표시함.",
+    "Acts 20:2-3의 헬라 체류를 고린도 중심으로 보는 견해는 직접 도시 명시가 아니므로 지역 노드와 inferred로 표시함.",
+    "더베, 뵈닉스, 삼관 등 위치 논의가 있는 지점은 disputed 또는 approximate로 표시함.",
+    "멜리데는 주류 견해인 몰타로 표시하되 역사적 비정임을 명시함.",
+    "항로 선은 본문의 경유 순서를 시각화한 직선 근사이며 실제 고대 항해 궤적이 아님."
+  ]
+}

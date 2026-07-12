@@ -1,0 +1,1853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-01",
+        "toStopId": "j1-02",
+        "fromPlaceId": "antioch_syria",
+        "toPlaceId": "seleucia_pieria",
+        "order": 2,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 13:4",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1607,
+            36.2021
+          ],
+          [
+            35.9215,
+            36.1236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-02",
+        "toStopId": "j1-03",
+        "fromPlaceId": "seleucia_pieria",
+        "toPlaceId": "salamis",
+        "order": 3,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 13:5",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9215,
+            36.1236
+          ],
+          [
+            33.9018,
+            35.1855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-03",
+        "toStopId": "j1-04",
+        "fromPlaceId": "salamis",
+        "toPlaceId": "paphos",
+        "order": 4,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 13:6-12",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9018,
+            35.1855
+          ],
+          [
+            32.4087,
+            34.7569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-04",
+        "toStopId": "j1-05",
+        "fromPlaceId": "paphos",
+        "toPlaceId": "perga",
+        "order": 5,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 13:13",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4087,
+            34.7569
+          ],
+          [
+            30.8534,
+            36.9615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-05",
+        "toStopId": "j1-06",
+        "fromPlaceId": "perga",
+        "toPlaceId": "antioch_pisidia",
+        "order": 6,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 13:14-52",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8534,
+            36.9615
+          ],
+          [
+            31.1907,
+            38.3052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-06",
+        "toStopId": "j1-07",
+        "fromPlaceId": "antioch_pisidia",
+        "toPlaceId": "iconium",
+        "order": 7,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:1-7",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1907,
+            38.3052
+          ],
+          [
+            32.4846,
+            37.8714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-07",
+        "toStopId": "j1-08",
+        "fromPlaceId": "iconium",
+        "toPlaceId": "lystra",
+        "order": 8,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:8-20",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4846,
+            37.8714
+          ],
+          [
+            32.4533,
+            37.5789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-08",
+        "toStopId": "j1-09",
+        "fromPlaceId": "lystra",
+        "toPlaceId": "derbe",
+        "order": 9,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:20-21",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4533,
+            37.5789
+          ],
+          [
+            33.25,
+            37.35
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-09",
+        "toStopId": "j1-10",
+        "fromPlaceId": "derbe",
+        "toPlaceId": "lystra",
+        "order": 10,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:21-23",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            37.35
+          ],
+          [
+            32.4533,
+            37.5789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-10",
+        "toStopId": "j1-11",
+        "fromPlaceId": "lystra",
+        "toPlaceId": "iconium",
+        "order": 11,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:21-23",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4533,
+            37.5789
+          ],
+          [
+            32.4846,
+            37.8714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-11",
+        "toStopId": "j1-12",
+        "fromPlaceId": "iconium",
+        "toPlaceId": "antioch_pisidia",
+        "order": 12,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:21-23",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4846,
+            37.8714
+          ],
+          [
+            31.1907,
+            38.3052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-12",
+        "toStopId": "j1-13",
+        "fromPlaceId": "antioch_pisidia",
+        "toPlaceId": "perga",
+        "order": 13,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:24-25",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1907,
+            38.3052
+          ],
+          [
+            30.8534,
+            36.9615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-13",
+        "toStopId": "j1-14",
+        "fromPlaceId": "perga",
+        "toPlaceId": "attalia",
+        "order": 14,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:25-26",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8534,
+            36.9615
+          ],
+          [
+            30.7056,
+            36.8841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-1",
+        "fromStopId": "j1-14",
+        "toStopId": "j1-15",
+        "fromPlaceId": "attalia",
+        "toPlaceId": "antioch_syria",
+        "order": 15,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 14:26-28",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7056,
+            36.8841
+          ],
+          [
+            36.1607,
+            36.2021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-01",
+        "toStopId": "j2-02",
+        "fromPlaceId": "antioch_syria",
+        "toPlaceId": "syria_cilicia_region",
+        "order": 2,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 15:41",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1607,
+            36.2021
+          ],
+          [
+            35.0,
+            36.8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-02",
+        "toStopId": "j2-03",
+        "fromPlaceId": "syria_cilicia_region",
+        "toPlaceId": "derbe",
+        "order": 3,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0,
+            36.8
+          ],
+          [
+            33.25,
+            37.35
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-03",
+        "toStopId": "j2-04",
+        "fromPlaceId": "derbe",
+        "toPlaceId": "lystra",
+        "order": 4,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:1-5",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.25,
+            37.35
+          ],
+          [
+            32.4533,
+            37.5789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-04",
+        "toStopId": "j2-05",
+        "fromPlaceId": "lystra",
+        "toPlaceId": "galatia_phrygia",
+        "order": 5,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:6",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4533,
+            37.5789
+          ],
+          [
+            31.0,
+            39.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-05",
+        "toStopId": "j2-06",
+        "fromPlaceId": "galatia_phrygia",
+        "toPlaceId": "mysia",
+        "order": 6,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:7-8",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.0,
+            39.0
+          ],
+          [
+            27.25,
+            39.65
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-06",
+        "toStopId": "j2-07",
+        "fromPlaceId": "mysia",
+        "toPlaceId": "troas",
+        "order": 7,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:8-10",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.25,
+            39.65
+          ],
+          [
+            26.1583,
+            39.7517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-07",
+        "toStopId": "j2-08",
+        "fromPlaceId": "troas",
+        "toPlaceId": "samothrace",
+        "order": 8,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:11",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.1583,
+            39.7517
+          ],
+          [
+            25.522,
+            40.4737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-08",
+        "toStopId": "j2-09",
+        "fromPlaceId": "samothrace",
+        "toPlaceId": "neapolis",
+        "order": 9,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:11",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.522,
+            40.4737
+          ],
+          [
+            24.4018,
+            40.9396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-09",
+        "toStopId": "j2-10",
+        "fromPlaceId": "neapolis",
+        "toPlaceId": "philippi",
+        "order": 10,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 16:12-40",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.4018,
+            40.9396
+          ],
+          [
+            24.2864,
+            41.0136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-10",
+        "toStopId": "j2-11",
+        "fromPlaceId": "philippi",
+        "toPlaceId": "amphipolis",
+        "order": 11,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 17:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.2864,
+            41.0136
+          ],
+          [
+            23.8472,
+            40.8197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-11",
+        "toStopId": "j2-12",
+        "fromPlaceId": "amphipolis",
+        "toPlaceId": "apollonia",
+        "order": 12,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 17:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8472,
+            40.8197
+          ],
+          [
+            23.489,
+            40.641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-12",
+        "toStopId": "j2-13",
+        "fromPlaceId": "apollonia",
+        "toPlaceId": "thessalonica",
+        "order": 13,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 17:1-9",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.489,
+            40.641
+          ],
+          [
+            22.9444,
+            40.6401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-13",
+        "toStopId": "j2-14",
+        "fromPlaceId": "thessalonica",
+        "toPlaceId": "berea",
+        "order": 14,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 17:10-15",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.9444,
+            40.6401
+          ],
+          [
+            22.2024,
+            40.5244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-14",
+        "toStopId": "j2-15",
+        "fromPlaceId": "berea",
+        "toPlaceId": "athens",
+        "order": 15,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 17:15-34",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2024,
+            40.5244
+          ],
+          [
+            23.7275,
+            37.9838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-15",
+        "toStopId": "j2-16",
+        "fromPlaceId": "athens",
+        "toPlaceId": "corinth",
+        "order": 16,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:1-18",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7275,
+            37.9838
+          ],
+          [
+            22.8794,
+            37.9061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-16",
+        "toStopId": "j2-17",
+        "fromPlaceId": "corinth",
+        "toPlaceId": "cenchreae",
+        "order": 17,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:18",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.8794,
+            37.9061
+          ],
+          [
+            22.9936,
+            37.8833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-17",
+        "toStopId": "j2-18",
+        "fromPlaceId": "cenchreae",
+        "toPlaceId": "ephesus",
+        "order": 18,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:19-21",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.9936,
+            37.8833
+          ],
+          [
+            27.341,
+            37.939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-18",
+        "toStopId": "j2-19",
+        "fromPlaceId": "ephesus",
+        "toPlaceId": "caesarea_maritima",
+        "order": 19,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:22",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.341,
+            37.939
+          ],
+          [
+            34.892,
+            32.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-19",
+        "toStopId": "j2-20",
+        "fromPlaceId": "caesarea_maritima",
+        "toPlaceId": "jerusalem",
+        "order": 20,
+        "travelMode": "land",
+        "confidence": "inferred",
+        "sourceReference": "Acts 18:22",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.892,
+            32.5
+          ],
+          [
+            35.2354,
+            31.778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-2",
+        "fromStopId": "j2-20",
+        "toStopId": "j2-21",
+        "fromPlaceId": "jerusalem",
+        "toPlaceId": "antioch_syria",
+        "order": 21,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:22",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2354,
+            31.778
+          ],
+          [
+            36.1607,
+            36.2021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-01",
+        "toStopId": "j3-02",
+        "fromPlaceId": "antioch_syria",
+        "toPlaceId": "galatia_phrygia",
+        "order": 2,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 18:23",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.1607,
+            36.2021
+          ],
+          [
+            31.0,
+            39.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-02",
+        "toStopId": "j3-03",
+        "fromPlaceId": "galatia_phrygia",
+        "toPlaceId": "ephesus",
+        "order": 3,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 19:1-20:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.0,
+            39.0
+          ],
+          [
+            27.341,
+            37.939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-03",
+        "toStopId": "j3-04",
+        "fromPlaceId": "ephesus",
+        "toPlaceId": "macedonia_region",
+        "order": 4,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:1-2",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.341,
+            37.939
+          ],
+          [
+            22.2,
+            40.75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-04",
+        "toStopId": "j3-05",
+        "fromPlaceId": "macedonia_region",
+        "toPlaceId": "achaia_region",
+        "order": 5,
+        "travelMode": "land",
+        "confidence": "inferred",
+        "sourceReference": "Acts 20:2-3",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2,
+            40.75
+          ],
+          [
+            22.5,
+            38.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-05",
+        "toStopId": "j3-06",
+        "fromPlaceId": "achaia_region",
+        "toPlaceId": "macedonia_region",
+        "order": 6,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:3",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5,
+            38.0
+          ],
+          [
+            22.2,
+            40.75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-06",
+        "toStopId": "j3-07",
+        "fromPlaceId": "macedonia_region",
+        "toPlaceId": "philippi",
+        "order": 7,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:6",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2,
+            40.75
+          ],
+          [
+            24.2864,
+            41.0136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-07",
+        "toStopId": "j3-08",
+        "fromPlaceId": "philippi",
+        "toPlaceId": "troas",
+        "order": 8,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:6-12",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.2864,
+            41.0136
+          ],
+          [
+            26.1583,
+            39.7517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-08",
+        "toStopId": "j3-09",
+        "fromPlaceId": "troas",
+        "toPlaceId": "assos",
+        "order": 9,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:13-14",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.1583,
+            39.7517
+          ],
+          [
+            26.3364,
+            39.4891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-09",
+        "toStopId": "j3-10",
+        "fromPlaceId": "assos",
+        "toPlaceId": "mitylene",
+        "order": 10,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:14",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.3364,
+            39.4891
+          ],
+          [
+            26.5553,
+            39.1077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-10",
+        "toStopId": "j3-11",
+        "fromPlaceId": "mitylene",
+        "toPlaceId": "chios",
+        "order": 11,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:15",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5553,
+            39.1077
+          ],
+          [
+            26.136,
+            38.37
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-11",
+        "toStopId": "j3-12",
+        "fromPlaceId": "chios",
+        "toPlaceId": "samos",
+        "order": 12,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:15",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.136,
+            38.37
+          ],
+          [
+            26.977,
+            37.754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-12",
+        "toStopId": "j3-13",
+        "fromPlaceId": "samos",
+        "toPlaceId": "miletus",
+        "order": 13,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 20:15-38",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.977,
+            37.754
+          ],
+          [
+            27.278,
+            37.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-13",
+        "toStopId": "j3-14",
+        "fromPlaceId": "miletus",
+        "toPlaceId": "cos",
+        "order": 14,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.278,
+            37.53
+          ],
+          [
+            27.2877,
+            36.8926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-14",
+        "toStopId": "j3-15",
+        "fromPlaceId": "cos",
+        "toPlaceId": "rhodes",
+        "order": 15,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:1",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.2877,
+            36.8926
+          ],
+          [
+            28.2176,
+            36.4341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-15",
+        "toStopId": "j3-16",
+        "fromPlaceId": "rhodes",
+        "toPlaceId": "patara",
+        "order": 16,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:1-2",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.2176,
+            36.4341
+          ],
+          [
+            29.3189,
+            36.2667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-16",
+        "toStopId": "j3-17",
+        "fromPlaceId": "patara",
+        "toPlaceId": "tyre",
+        "order": 17,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:3-6",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.3189,
+            36.2667
+          ],
+          [
+            35.2038,
+            33.2705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-17",
+        "toStopId": "j3-18",
+        "fromPlaceId": "tyre",
+        "toPlaceId": "ptolemais",
+        "order": 18,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:7",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2038,
+            33.2705
+          ],
+          [
+            35.0712,
+            32.9236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-18",
+        "toStopId": "j3-19",
+        "fromPlaceId": "ptolemais",
+        "toPlaceId": "caesarea_maritima",
+        "order": 19,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:8-16",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0712,
+            32.9236
+          ],
+          [
+            34.892,
+            32.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-3",
+        "fromStopId": "j3-19",
+        "toStopId": "j3-20",
+        "fromPlaceId": "caesarea_maritima",
+        "toPlaceId": "jerusalem",
+        "order": 20,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 21:17",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.892,
+            32.5
+          ],
+          [
+            35.2354,
+            31.778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-01",
+        "toStopId": "jr-02",
+        "fromPlaceId": "caesarea_maritima",
+        "toPlaceId": "sidon",
+        "order": 2,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:3",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.892,
+            32.5
+          ],
+          [
+            35.3759,
+            33.5606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-02",
+        "toStopId": "jr-03",
+        "fromPlaceId": "sidon",
+        "toPlaceId": "cyprus_leeward",
+        "order": 3,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:4",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.3759,
+            33.5606
+          ],
+          [
+            34.3,
+            35.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-03",
+        "toStopId": "jr-04",
+        "fromPlaceId": "cyprus_leeward",
+        "toPlaceId": "myra",
+        "order": 4,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:5-6",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3,
+            35.1
+          ],
+          [
+            29.985,
+            36.2589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-04",
+        "toStopId": "jr-05",
+        "fromPlaceId": "myra",
+        "toPlaceId": "cnidus",
+        "order": 5,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:7",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.985,
+            36.2589
+          ],
+          [
+            27.3742,
+            36.685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-05",
+        "toStopId": "jr-06",
+        "fromPlaceId": "cnidus",
+        "toPlaceId": "salmone",
+        "order": 6,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:7",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3742,
+            36.685
+          ],
+          [
+            26.256,
+            35.157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-06",
+        "toStopId": "jr-07",
+        "fromPlaceId": "salmone",
+        "toPlaceId": "fair_havens",
+        "order": 7,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:8-12",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.256,
+            35.157
+          ],
+          [
+            24.806,
+            34.9356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-07",
+        "toStopId": "jr-08",
+        "fromPlaceId": "fair_havens",
+        "toPlaceId": "malta",
+        "order": 8,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 27:13-28:11",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.806,
+            34.9356
+          ],
+          [
+            14.506,
+            35.884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-08",
+        "toStopId": "jr-09",
+        "fromPlaceId": "malta",
+        "toPlaceId": "syracuse",
+        "order": 9,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:11-12",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.506,
+            35.884
+          ],
+          [
+            15.2866,
+            37.0755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-09",
+        "toStopId": "jr-10",
+        "fromPlaceId": "syracuse",
+        "toPlaceId": "rhegium",
+        "order": 10,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:13",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2866,
+            37.0755
+          ],
+          [
+            15.6473,
+            38.1113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-10",
+        "toStopId": "jr-11",
+        "fromPlaceId": "rhegium",
+        "toPlaceId": "puteoli",
+        "order": 11,
+        "travelMode": "sea",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:13-14",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.6473,
+            38.1113
+          ],
+          [
+            14.1222,
+            40.823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-11",
+        "toStopId": "jr-12",
+        "fromPlaceId": "puteoli",
+        "toPlaceId": "forum_appius",
+        "order": 12,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:15",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1222,
+            40.823
+          ],
+          [
+            12.985,
+            41.468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-12",
+        "toStopId": "jr-13",
+        "fromPlaceId": "forum_appius",
+        "toPlaceId": "three_taverns",
+        "order": 13,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:15",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.985,
+            41.468
+          ],
+          [
+            12.82,
+            41.59
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "journeyId": "journey-rome",
+        "fromStopId": "jr-13",
+        "toStopId": "jr-14",
+        "fromPlaceId": "three_taverns",
+        "toPlaceId": "rome",
+        "order": 14,
+        "travelMode": "land",
+        "confidence": "explicit",
+        "sourceReference": "Acts 28:16-31",
+        "sourceType": "Bible"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.82,
+            41.59
+          ],
+          [
+            12.4829,
+            41.8933
+          ]
+        ]
+      }
+    }
+  ]
+}

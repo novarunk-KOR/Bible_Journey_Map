@@ -1,0 +1,198 @@
+[
+  {
+    "id": "commission-antioch",
+    "title": "성령의 파송",
+    "journeyId": "journey-1",
+    "placeId": "antioch_syria",
+    "summary": "바나바와 사울을 따로 세워 보내라는 성령의 말씀에 따라 교회가 금식하고 기도하여 파송했다.",
+    "bibleReferences": [
+      "Acts 13:1-3"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:1-3"
+  },
+  {
+    "id": "sergius-paulus",
+    "title": "서기오 바울의 믿음",
+    "journeyId": "journey-1",
+    "placeId": "paphos",
+    "summary": "엘루마의 방해 속에서 총독 서기오 바울이 주의 가르침을 놀랍게 여기며 믿었다.",
+    "bibleReferences": [
+      "Acts 13:6-12"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:6-12"
+  },
+  {
+    "id": "pisidian-sermon",
+    "title": "비시디아 안디옥 설교",
+    "journeyId": "journey-1",
+    "placeId": "antioch_pisidia",
+    "summary": "바울이 이스라엘 역사와 예수의 부활을 증언했고, 다음 안식일 많은 사람이 말씀을 들으러 모였다.",
+    "bibleReferences": [
+      "Acts 13:16-48"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:16-48"
+  },
+  {
+    "id": "lystra-healing",
+    "title": "루스드라 치유와 박해",
+    "journeyId": "journey-1",
+    "placeId": "lystra",
+    "summary": "걷지 못한 사람이 치유되자 사람들이 바울과 바나바를 신으로 오해했고, 이후 바울은 돌에 맞았다.",
+    "bibleReferences": [
+      "Acts 14:8-20"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 14:8-20"
+  },
+  {
+    "id": "macedonian-vision",
+    "title": "마게도냐 환상",
+    "journeyId": "journey-2",
+    "placeId": "troas",
+    "summary": "바울이 마게도냐 사람의 도움 요청 환상을 보고 하나님이 복음을 전하라고 부르신 줄로 판단했다.",
+    "bibleReferences": [
+      "Acts 16:8-10"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:8-10"
+  },
+  {
+    "id": "philippi-prison",
+    "title": "빌립보 감옥과 간수",
+    "journeyId": "journey-2",
+    "placeId": "philippi",
+    "summary": "바울과 실라가 갇혔으나 지진으로 문이 열렸고, 간수와 그의 집이 말씀을 듣고 세례를 받았다.",
+    "bibleReferences": [
+      "Acts 16:22-34"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:22-34"
+  },
+  {
+    "id": "areopagus",
+    "title": "아레오바고 연설",
+    "journeyId": "journey-2",
+    "placeId": "athens",
+    "summary": "바울이 알지 못하는 신의 제단을 계기로 창조주와 회개, 부활을 선포했다.",
+    "bibleReferences": [
+      "Acts 17:22-34"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:22-34"
+  },
+  {
+    "id": "corinth-ministry",
+    "title": "고린도 1년 6개월 사역",
+    "journeyId": "journey-2",
+    "placeId": "corinth",
+    "summary": "주께서 환상으로 두려워하지 말라고 격려하셨고 바울은 고린도에서 말씀을 가르쳤다.",
+    "bibleReferences": [
+      "Acts 18:9-11"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:9-11"
+  },
+  {
+    "id": "ephesus-tyrannus",
+    "title": "두란노 서원 강론",
+    "journeyId": "journey-3",
+    "placeId": "ephesus",
+    "summary": "바울이 두 해 동안 날마다 강론하여 아시아에 사는 사람들이 주의 말씀을 들었다.",
+    "bibleReferences": [
+      "Acts 19:8-10"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 19:8-10"
+  },
+  {
+    "id": "ephesus-riot",
+    "title": "에베소 소요",
+    "journeyId": "journey-3",
+    "placeId": "ephesus",
+    "summary": "아데미 신전 모형 사업과 관련된 데메드리오의 선동으로 극장에서 큰 소요가 일어났다.",
+    "bibleReferences": [
+      "Acts 19:23-41"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 19:23-41"
+  },
+  {
+    "id": "eutychus-restored",
+    "title": "유두고 사건",
+    "journeyId": "journey-3",
+    "placeId": "troas",
+    "summary": "밤늦게 말씀을 듣던 유두고가 삼층에서 떨어졌으나 바울이 그를 안았고 살아났다.",
+    "bibleReferences": [
+      "Acts 20:7-12"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:7-12"
+  },
+  {
+    "id": "miletus-farewell",
+    "title": "밀레도 고별 권면",
+    "journeyId": "journey-3",
+    "placeId": "miletus",
+    "summary": "바울이 에베소 장로들에게 자신의 사역을 회고하고 교회를 돌보라고 권면했다.",
+    "bibleReferences": [
+      "Acts 20:17-38"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:17-38"
+  },
+  {
+    "id": "fair-havens-warning",
+    "title": "미항에서의 경고",
+    "journeyId": "journey-rome",
+    "placeId": "fair_havens",
+    "summary": "바울은 항해가 화물과 배뿐 아니라 생명에도 큰 손해가 될 것이라고 경고했다.",
+    "bibleReferences": [
+      "Acts 27:9-12"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:9-12"
+  },
+  {
+    "id": "shipwreck-malta",
+    "title": "멜리데 파선과 전원 구조",
+    "journeyId": "journey-rome",
+    "placeId": "malta",
+    "summary": "배는 파선했으나 하나님이 약속하신 대로 배에 탄 모든 사람이 육지에 올라 구조되었다.",
+    "bibleReferences": [
+      "Acts 27:21-44",
+      "Acts 28:1"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:21-44; Acts 28:1"
+  },
+  {
+    "id": "rome-ministry",
+    "title": "로마에서의 두 해",
+    "journeyId": "journey-rome",
+    "placeId": "rome",
+    "summary": "바울은 셋집에 머물며 찾아오는 사람을 영접하고 담대하게 하나님 나라를 전했다.",
+    "bibleReferences": [
+      "Acts 28:30-31"
+    ],
+    "confidence": "explicit",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:30-31"
+  }
+]

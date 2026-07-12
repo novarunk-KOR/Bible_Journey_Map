@@ -1,0 +1,324 @@
+[
+  {
+    "id": "paul",
+    "nameKo": "바울",
+    "nameEn": "Paul",
+    "description": "이방인의 사도로 부름받아 복음을 전한 핵심 인물.",
+    "references": [
+      "Acts 9:1-30",
+      "Acts 13-28"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 9:1-30; Acts 13-28"
+  },
+  {
+    "id": "barnabas",
+    "nameKo": "바나바",
+    "nameEn": "Barnabas",
+    "description": "1차 전도여행의 동역자. 구브로 출신.",
+    "references": [
+      "Acts 4:36-37",
+      "Acts 13-15"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 4:36-37; Acts 13-15"
+  },
+  {
+    "id": "john_mark",
+    "nameKo": "요한 마가",
+    "nameEn": "John Mark",
+    "description": "1차 여행 초기에 동행했으나 버가에서 돌아갔다.",
+    "references": [
+      "Acts 12:25",
+      "Acts 13:5,13",
+      "Acts 15:37-39"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 12:25; Acts 13:5,13; Acts 15:37-39"
+  },
+  {
+    "id": "silas",
+    "nameKo": "실라",
+    "nameEn": "Silas",
+    "description": "2차 전도여행의 주요 동역자.",
+    "references": [
+      "Acts 15:22-18:5"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 15:22-18:5"
+  },
+  {
+    "id": "timothy",
+    "nameKo": "디모데",
+    "nameEn": "Timothy",
+    "description": "루스드라에서 합류한 젊은 동역자.",
+    "references": [
+      "Acts 16:1-5",
+      "Acts 17:14-15",
+      "Acts 18:5",
+      "Acts 19:22",
+      "Acts 20:4"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:1-5; Acts 17:14-15; Acts 18:5; Acts 19:22; Acts 20:4"
+  },
+  {
+    "id": "luke",
+    "nameKo": "누가",
+    "nameEn": "Luke",
+    "description": "사도행전의 ‘우리’ 구절과 관련된 동행자로 전통적으로 이해된다.",
+    "references": [
+      "Acts 16:10-17",
+      "Acts 20:5-21:18",
+      "Acts 27:1-28:16"
+    ],
+    "confidence": "inferred",
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:10-17; Acts 20:5-21:18; Acts 27:1-28:16"
+  },
+  {
+    "id": "aquila",
+    "nameKo": "아굴라",
+    "nameEn": "Aquila",
+    "description": "브리스길라와 함께 바울의 동역자가 된 장막 제조업자.",
+    "references": [
+      "Acts 18:2-3,18-26"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:2-3,18-26"
+  },
+  {
+    "id": "priscilla",
+    "nameKo": "브리스길라",
+    "nameEn": "Priscilla",
+    "description": "아굴라와 함께 바울의 동역자이며 아볼로를 더 정확히 가르쳤다.",
+    "references": [
+      "Acts 18:2,18,26"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:2,18,26"
+  },
+  {
+    "id": "aristarchus",
+    "nameKo": "아리스다고",
+    "nameEn": "Aristarchus",
+    "description": "데살로니가 출신으로 로마 항해에 동행했다.",
+    "references": [
+      "Acts 19:29",
+      "Acts 20:4",
+      "Acts 27:2"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 19:29; Acts 20:4; Acts 27:2"
+  },
+  {
+    "id": "julius",
+    "nameKo": "율리오",
+    "nameEn": "Julius",
+    "description": "바울을 로마로 호송한 아우구스도대의 백부장.",
+    "references": [
+      "Acts 27:1-3,43"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:1-3,43"
+  },
+  {
+    "id": "lydia",
+    "nameKo": "루디아",
+    "nameEn": "Lydia",
+    "description": "빌립보에서 복음을 받아들인 두아디라 출신 자주 장사.",
+    "references": [
+      "Acts 16:14-15,40"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:14-15,40"
+  },
+  {
+    "id": "philippian_jailer",
+    "nameKo": "빌립보 간수",
+    "nameEn": "Philippian Jailer",
+    "description": "지진 뒤 바울과 실라에게 구원의 길을 묻고 온 집이 세례를 받았다.",
+    "references": [
+      "Acts 16:25-34"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:25-34"
+  },
+  {
+    "id": "jason",
+    "nameKo": "야손",
+    "nameEn": "Jason",
+    "description": "데살로니가에서 바울 일행을 맞아들였다가 끌려간 신자.",
+    "references": [
+      "Acts 17:5-9"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:5-9"
+  },
+  {
+    "id": "dionysius",
+    "nameKo": "디오누시오",
+    "nameEn": "Dionysius",
+    "description": "아레오바고 연설 뒤 믿은 사람 중 하나.",
+    "references": [
+      "Acts 17:34"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:34"
+  },
+  {
+    "id": "damaris",
+    "nameKo": "다마리",
+    "nameEn": "Damaris",
+    "description": "아덴에서 믿은 사람 중 하나.",
+    "references": [
+      "Acts 17:34"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:34"
+  },
+  {
+    "id": "sergius_paulus",
+    "nameKo": "서기오 바울",
+    "nameEn": "Sergius Paulus",
+    "description": "구브로의 총독으로 말씀을 듣고 믿었다.",
+    "references": [
+      "Acts 13:7-12"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:7-12"
+  },
+  {
+    "id": "elymas",
+    "nameKo": "엘루마",
+    "nameEn": "Elymas",
+    "description": "바보에서 총독을 방해한 마술사 바예수.",
+    "references": [
+      "Acts 13:6-11"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:6-11"
+  },
+  {
+    "id": "gallio",
+    "nameKo": "갈리오",
+    "nameEn": "Gallio",
+    "description": "고린도 사건 당시 아가야 총독.",
+    "references": [
+      "Acts 18:12-17"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:12-17"
+  },
+  {
+    "id": "phoebe",
+    "nameKo": "뵈뵈",
+    "nameEn": "Phoebe",
+    "description": "겐그레아 교회의 일꾼으로 로마서에 언급된다.",
+    "references": [
+      "Romans 16:1-2"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Romans 16:1-2"
+  },
+  {
+    "id": "apollos",
+    "nameKo": "아볼로",
+    "nameEn": "Apollos",
+    "description": "알렉산드리아 출신의 능변가로 에베소에서 가르침을 받았다.",
+    "references": [
+      "Acts 18:24-28"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:24-28"
+  },
+  {
+    "id": "eutychus",
+    "nameKo": "유두고",
+    "nameEn": "Eutychus",
+    "description": "드로아에서 창에서 떨어졌으나 다시 살아난 청년.",
+    "references": [
+      "Acts 20:7-12"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:7-12"
+  },
+  {
+    "id": "philip_evangelist",
+    "nameKo": "전도자 빌립",
+    "nameEn": "Philip the Evangelist",
+    "description": "가이사랴에서 바울 일행을 맞은 일곱 집사 중 한 사람.",
+    "references": [
+      "Acts 21:8-9"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:8-9"
+  },
+  {
+    "id": "agabus",
+    "nameKo": "아가보",
+    "nameEn": "Agabus",
+    "description": "가이사랴에서 바울의 결박을 예언한 선지자.",
+    "references": [
+      "Acts 21:10-14"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:10-14"
+  },
+  {
+    "id": "felix",
+    "nameKo": "벨릭스",
+    "nameEn": "Felix",
+    "description": "가이사랴에서 바울을 심문한 총독.",
+    "references": [
+      "Acts 23:24-24:27"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 23:24-24:27"
+  },
+  {
+    "id": "festus",
+    "nameKo": "베스도",
+    "nameEn": "Festus",
+    "description": "벨릭스 후임 총독으로 바울의 황제 상소를 처리했다.",
+    "references": [
+      "Acts 24:27-26:32"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 24:27-26:32"
+  },
+  {
+    "id": "agrippa_ii",
+    "nameKo": "아그립바 2세",
+    "nameEn": "Herod Agrippa II",
+    "description": "가이사랴에서 바울의 변론을 들은 왕.",
+    "references": [
+      "Acts 25:13-26:32"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 25:13-26:32"
+  },
+  {
+    "id": "publius",
+    "nameKo": "보블리오",
+    "nameEn": "Publius",
+    "description": "멜리데에서 바울 일행을 영접한 섬의 우두머리.",
+    "references": [
+      "Acts 28:7-10"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:7-10"
+  },
+  {
+    "id": "james",
+    "nameKo": "야고보",
+    "nameEn": "James",
+    "description": "예루살렘 교회의 지도자로 바울의 보고를 들었다.",
+    "references": [
+      "Acts 15:13-21",
+      "Acts 21:18-25"
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 15:13-21; Acts 21:18-25"
+  }
+]

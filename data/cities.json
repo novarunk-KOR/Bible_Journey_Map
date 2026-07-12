@@ -1,0 +1,3637 @@
+[
+  {
+    "id": "antioch_syria",
+    "ancientNameKo": "수리아 안디옥",
+    "ancientNameEn": "Antioch on the Orontes",
+    "modernName": "안타키아 인근",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.2021,
+      "lng": 36.1607,
+      "precision": "approximate"
+    },
+    "summary": "바울과 바나바가 파송받고 세 차례 선교 여행의 출발·귀환 거점이 된 교회 공동체.",
+    "historicalContext": "로마 제국 수리아 속주의 핵심 도시. 현대 안타키아와 인접한 고대 유적을 기준으로 표시한다.",
+    "bibleReferences": [
+      "Acts 13:1-3",
+      "Acts 14:26-28",
+      "Acts 15:35-40",
+      "Acts 18:22-23"
+    ],
+    "relatedJourneyIds": [
+      "journey-1",
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "john_mark",
+      "silas"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:1-3",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:1-3; Acts 14:26-28; Acts 15:35-40; Acts 18:22-23",
+    "relatedEventIds": [
+      "commission-antioch"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-01",
+        "visitOrder": 1,
+        "previousStopId": null,
+        "previousPlaceId": null,
+        "nextStopId": "j1-02",
+        "nextPlaceId": "seleucia_pieria",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:1-3",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-15",
+        "visitOrder": 15,
+        "previousStopId": "j1-14",
+        "previousPlaceId": "attalia",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:26-28",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-01",
+        "visitOrder": 1,
+        "previousStopId": null,
+        "previousPlaceId": null,
+        "nextStopId": "j2-02",
+        "nextPlaceId": "syria_cilicia_region",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 15:36-40",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-21",
+        "visitOrder": 21,
+        "previousStopId": "j2-20",
+        "previousPlaceId": "jerusalem",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-01",
+        "visitOrder": 1,
+        "previousStopId": null,
+        "previousPlaceId": null,
+        "nextStopId": "j3-02",
+        "nextPlaceId": "galatia_phrygia",
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:23",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "seleucia_pieria",
+    "ancientNameKo": "실루기아",
+    "ancientNameEn": "Seleucia Pieria",
+    "modernName": "첼레브릭 인근",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.1236,
+      "lng": 35.9215,
+      "precision": "approximate"
+    },
+    "summary": "수리아 안디옥의 항구. 바울과 바나바가 구브로로 출항했다.",
+    "historicalContext": "오론테스강 하구의 항구 도시로 수리아 안디옥의 해상 관문이었다.",
+    "bibleReferences": [
+      "Acts 13:4"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "john_mark"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:4",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:4",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-02",
+        "visitOrder": 2,
+        "previousStopId": "j1-01",
+        "previousPlaceId": "antioch_syria",
+        "nextStopId": "j1-03",
+        "nextPlaceId": "salamis",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:4",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "salamis",
+    "ancientNameKo": "살라미",
+    "ancientNameEn": "Salamis",
+    "modernName": "파마구스타 북쪽 유적",
+    "countryId": "cyprus",
+    "type": "city",
+    "coordinates": {
+      "lat": 35.1855,
+      "lng": 33.9018,
+      "precision": "approximate"
+    },
+    "summary": "구브로 동쪽 항구. 여러 회당에서 하나님의 말씀을 전했다.",
+    "historicalContext": "고대 구브로의 주요 항구 도시. 현재 북키프로스 지역 유적에 해당한다.",
+    "bibleReferences": [
+      "Acts 13:5"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "john_mark"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:5",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:5",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-03",
+        "visitOrder": 3,
+        "previousStopId": "j1-02",
+        "previousPlaceId": "seleucia_pieria",
+        "nextStopId": "j1-04",
+        "nextPlaceId": "paphos",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:5",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "paphos",
+    "ancientNameKo": "바보",
+    "ancientNameEn": "Paphos",
+    "modernName": "파포스",
+    "countryId": "cyprus",
+    "type": "city",
+    "coordinates": {
+      "lat": 34.7569,
+      "lng": 32.4087,
+      "precision": "approximate"
+    },
+    "summary": "총독 서기오 바울과 마술사 엘루마 사건이 기록된 구브로 서부 도시.",
+    "historicalContext": "로마 시대 구브로 행정 중심지. 고대 네아 파포스 유적을 기준으로 표시한다.",
+    "bibleReferences": [
+      "Acts 13:6-12"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "john_mark",
+      "sergius_paulus",
+      "elymas"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:6-12",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:6-12",
+    "relatedEventIds": [
+      "sergius-paulus"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-04",
+        "visitOrder": 4,
+        "previousStopId": "j1-03",
+        "previousPlaceId": "salamis",
+        "nextStopId": "j1-05",
+        "nextPlaceId": "perga",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:6-12",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "perga",
+    "ancientNameKo": "버가",
+    "ancientNameEn": "Perga",
+    "modernName": "악수 인근",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.9615,
+      "lng": 30.8534,
+      "precision": "approximate"
+    },
+    "summary": "밤빌리아의 도시. 요한 마가가 일행을 떠나 예루살렘으로 돌아갔으며, 귀환길에는 말씀을 전했다.",
+    "historicalContext": "팜필리아 평야의 중요 도시. 안탈리아 동쪽 고대 유적지에 해당한다.",
+    "bibleReferences": [
+      "Acts 13:13-14",
+      "Acts 14:25"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "john_mark"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:13-14",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:13-14; Acts 14:25",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-05",
+        "visitOrder": 5,
+        "previousStopId": "j1-04",
+        "previousPlaceId": "paphos",
+        "nextStopId": "j1-06",
+        "nextPlaceId": "antioch_pisidia",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:13",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-13",
+        "visitOrder": 13,
+        "previousStopId": "j1-12",
+        "previousPlaceId": "antioch_pisidia",
+        "nextStopId": "j1-14",
+        "nextPlaceId": "attalia",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:24-25",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "antioch_pisidia",
+    "ancientNameKo": "비시디아 안디옥",
+    "ancientNameEn": "Pisidian Antioch",
+    "modernName": "얄바츠 인근",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 38.3052,
+      "lng": 31.1907,
+      "precision": "approximate"
+    },
+    "summary": "회당 설교와 이방인 사역 확장이 기록된 도시. 박해로 일행은 이고니온으로 이동했다.",
+    "historicalContext": "갈라디아 속주 내 로마 식민도시. 명칭은 비시디아 안디옥이지만 행정 경계는 시대에 따라 달랐다.",
+    "bibleReferences": [
+      "Acts 13:14-52",
+      "Acts 14:21-23"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [
+      {
+        "name": "갈라디아서",
+        "relation": "남갈라디아 수신설에서 관련 가능",
+        "confidence": "disputed"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:14-52",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:14-52; Acts 14:21-23",
+    "relatedEventIds": [
+      "pisidian-sermon"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-06",
+        "visitOrder": 6,
+        "previousStopId": "j1-05",
+        "previousPlaceId": "perga",
+        "nextStopId": "j1-07",
+        "nextPlaceId": "iconium",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:14-52",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-12",
+        "visitOrder": 12,
+        "previousStopId": "j1-11",
+        "previousPlaceId": "iconium",
+        "nextStopId": "j1-13",
+        "nextPlaceId": "perga",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "iconium",
+    "ancientNameKo": "이고니온",
+    "ancientNameEn": "Iconium",
+    "modernName": "코니아",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.8714,
+      "lng": 32.4846,
+      "precision": "approximate"
+    },
+    "summary": "유대인과 헬라인이 믿었으나 반대와 위협도 일어난 도시. 귀환길에 제자들을 굳게 했다.",
+    "historicalContext": "오늘날 코니아와 연속성이 있는 고대 도시로 일반적으로 비정된다.",
+    "bibleReferences": [
+      "Acts 14:1-7",
+      "Acts 14:21-23",
+      "Acts 16:2"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [
+      {
+        "name": "갈라디아서",
+        "relation": "남갈라디아 수신설에서 관련 가능",
+        "confidence": "disputed"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:1-7",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 14:1-7; Acts 14:21-23; Acts 16:2",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-07",
+        "visitOrder": 7,
+        "previousStopId": "j1-06",
+        "previousPlaceId": "antioch_pisidia",
+        "nextStopId": "j1-08",
+        "nextPlaceId": "lystra",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:1-7",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-11",
+        "visitOrder": 11,
+        "previousStopId": "j1-10",
+        "previousPlaceId": "lystra",
+        "nextStopId": "j1-12",
+        "nextPlaceId": "antioch_pisidia",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "lystra",
+    "ancientNameKo": "루스드라",
+    "ancientNameEn": "Lystra",
+    "modernName": "하툰사라이 인근",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.5789,
+      "lng": 32.4533,
+      "precision": "approximate"
+    },
+    "summary": "나면서 걷지 못한 사람의 치유, 돌에 맞은 사건, 디모데의 합류가 기록된 도시.",
+    "historicalContext": "정확한 고대 중심지는 유적 연구로 비정되며 현대 도시와 직접 일치하지 않는다.",
+    "bibleReferences": [
+      "Acts 14:8-20",
+      "Acts 14:21-23",
+      "Acts 16:1-3"
+    ],
+    "relatedJourneyIds": [
+      "journey-1",
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [
+      {
+        "name": "갈라디아서",
+        "relation": "남갈라디아 수신설에서 관련 가능",
+        "confidence": "disputed"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:8-20",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 14:8-20; Acts 14:21-23; Acts 16:1-3",
+    "relatedEventIds": [
+      "lystra-healing"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-08",
+        "visitOrder": 8,
+        "previousStopId": "j1-07",
+        "previousPlaceId": "iconium",
+        "nextStopId": "j1-09",
+        "nextPlaceId": "derbe",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:8-20",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-10",
+        "visitOrder": 10,
+        "previousStopId": "j1-09",
+        "previousPlaceId": "derbe",
+        "nextStopId": "j1-11",
+        "nextPlaceId": "iconium",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-04",
+        "visitOrder": 4,
+        "previousStopId": "j2-03",
+        "previousPlaceId": "derbe",
+        "nextStopId": "j2-05",
+        "nextPlaceId": "galatia_phrygia",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:1-5",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "derbe",
+    "ancientNameKo": "더베",
+    "ancientNameEn": "Derbe",
+    "modernName": "에킨외쥐 인근 추정",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.35,
+      "lng": 33.25,
+      "precision": "regional"
+    },
+    "summary": "복음을 전해 많은 제자를 삼았고, 2차 여행에서 교회들을 다시 방문했다.",
+    "historicalContext": "더베의 정확한 위치는 학계에서 논의되어 왔다. 지도 좌표는 널리 제시되는 남부 갈라디아 후보 지역의 근사값이다.",
+    "bibleReferences": [
+      "Acts 14:20-21",
+      "Acts 16:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-1",
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [
+      {
+        "name": "갈라디아서",
+        "relation": "남갈라디아 수신설에서 관련 가능",
+        "confidence": "disputed"
+      }
+    ],
+    "confidence": "disputed",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:20-21",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 14:20-21; Acts 16:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-09",
+        "visitOrder": 9,
+        "previousStopId": "j1-08",
+        "previousPlaceId": "lystra",
+        "nextStopId": "j1-10",
+        "nextPlaceId": "lystra",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:20-21",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-03",
+        "visitOrder": 3,
+        "previousStopId": "j2-02",
+        "previousPlaceId": "syria_cilicia_region",
+        "nextStopId": "j2-04",
+        "nextPlaceId": "lystra",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "attalia",
+    "ancientNameKo": "앗달리아",
+    "ancientNameEn": "Attalia",
+    "modernName": "안탈리아",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.8841,
+      "lng": 30.7056,
+      "precision": "approximate"
+    },
+    "summary": "1차 전도여행 귀환길에 배를 타고 수리아 안디옥으로 향한 항구.",
+    "historicalContext": "오늘날 안탈리아의 전신인 팜필리아 항구 도시.",
+    "bibleReferences": [
+      "Acts 14:25-26"
+    ],
+    "relatedJourneyIds": [
+      "journey-1"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:25-26",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 14:25-26",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-1",
+        "stopId": "j1-14",
+        "visitOrder": 14,
+        "previousStopId": "j1-13",
+        "previousPlaceId": "perga",
+        "nextStopId": "j1-15",
+        "nextPlaceId": "antioch_syria",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:25-26",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "syria_cilicia_region",
+    "ancientNameKo": "수리아와 길리기아",
+    "ancientNameEn": "Syria and Cilicia",
+    "modernName": "수리아·길리기아 지역",
+    "countryId": "turkey",
+    "type": "region",
+    "coordinates": {
+      "lat": 36.8,
+      "lng": 35.0,
+      "precision": "regional"
+    },
+    "summary": "2차 여행 초기에 교회들을 굳게 하며 통과한 지역. 본문은 이 구간의 개별 도시를 열거하지 않는다.",
+    "historicalContext": "정확한 세부 이동로는 사도행전에 기록되지 않아 지역 중심점으로 표시한다.",
+    "bibleReferences": [
+      "Acts 15:41"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 15:41",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 15:41",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-02",
+        "visitOrder": 2,
+        "previousStopId": "j2-01",
+        "previousPlaceId": "antioch_syria",
+        "nextStopId": "j2-03",
+        "nextPlaceId": "derbe",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 15:41",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "galatia_phrygia",
+    "ancientNameKo": "갈라디아·브루기아 지역",
+    "ancientNameEn": "Galatian Region and Phrygia",
+    "modernName": "중부 아나톨리아 지역",
+    "countryId": "turkey",
+    "type": "region",
+    "coordinates": {
+      "lat": 39.0,
+      "lng": 31.0,
+      "precision": "regional"
+    },
+    "summary": "바울이 제자들을 굳게 하며 지나간 내륙 지역. 구체적인 도시와 순서는 본문에 모두 명시되지 않는다.",
+    "historicalContext": "고대 행정·민족·지리 명칭의 범위가 겹치며 학설 차이가 있어 넓은 지역으로 표시한다.",
+    "bibleReferences": [
+      "Acts 16:6",
+      "Acts 18:23",
+      "Acts 19:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:6",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:6; Acts 18:23; Acts 19:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-05",
+        "visitOrder": 5,
+        "previousStopId": "j2-04",
+        "previousPlaceId": "lystra",
+        "nextStopId": "j2-06",
+        "nextPlaceId": "mysia",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:6",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-02",
+        "visitOrder": 2,
+        "previousStopId": "j3-01",
+        "previousPlaceId": "antioch_syria",
+        "nextStopId": "j3-03",
+        "nextPlaceId": "ephesus",
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:23",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "mysia",
+    "ancientNameKo": "무시아",
+    "ancientNameEn": "Mysia",
+    "modernName": "튀르키예 북서부 지역",
+    "countryId": "turkey",
+    "type": "region",
+    "coordinates": {
+      "lat": 39.65,
+      "lng": 27.25,
+      "precision": "regional"
+    },
+    "summary": "비두니아로 가려 했으나 허락되지 않아 지나서 드로아로 내려간 지역.",
+    "historicalContext": "본문은 구체적인 경유 도시를 제시하지 않으므로 지역 중심점으로 표현한다.",
+    "bibleReferences": [
+      "Acts 16:7-8"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:7-8",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:7-8",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-06",
+        "visitOrder": 6,
+        "previousStopId": "j2-05",
+        "previousPlaceId": "galatia_phrygia",
+        "nextStopId": "j2-07",
+        "nextPlaceId": "troas",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:7-8",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "troas",
+    "ancientNameKo": "드로아",
+    "ancientNameEn": "Alexandria Troas",
+    "modernName": "달얀 인근 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 39.7517,
+      "lng": 26.1583,
+      "precision": "approximate"
+    },
+    "summary": "마게도냐 환상을 본 곳이며, 3차 여행 귀환 중 유두고 사건이 기록된 항구 도시.",
+    "historicalContext": "에게해 동쪽 해안의 중요한 로마 항구.",
+    "bibleReferences": [
+      "Acts 16:8-11",
+      "Acts 20:5-12"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke",
+      "eutychus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:8-11",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:8-11; Acts 20:5-12",
+    "relatedEventIds": [
+      "macedonian-vision",
+      "eutychus-restored"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-07",
+        "visitOrder": 7,
+        "previousStopId": "j2-06",
+        "previousPlaceId": "mysia",
+        "nextStopId": "j2-08",
+        "nextPlaceId": "samothrace",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:8-10",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-08",
+        "visitOrder": 8,
+        "previousStopId": "j3-07",
+        "previousPlaceId": "philippi",
+        "nextStopId": "j3-09",
+        "nextPlaceId": "assos",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:6-12",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "samothrace",
+    "ancientNameKo": "사모드라게",
+    "ancientNameEn": "Samothrace",
+    "modernName": "사모트라키",
+    "countryId": "greece",
+    "type": "island",
+    "coordinates": {
+      "lat": 40.4737,
+      "lng": 25.522,
+      "precision": "approximate"
+    },
+    "summary": "드로아에서 마게도냐로 건너가는 항해 중 머문 섬.",
+    "historicalContext": "북에게해의 섬. 본문은 사건 없이 항해 경유지로 기록한다.",
+    "bibleReferences": [
+      "Acts 16:11"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:11",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-08",
+        "visitOrder": 8,
+        "previousStopId": "j2-07",
+        "previousPlaceId": "troas",
+        "nextStopId": "j2-09",
+        "nextPlaceId": "neapolis",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "neapolis",
+    "ancientNameKo": "네압볼리",
+    "ancientNameEn": "Neapolis",
+    "modernName": "카발라",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.9396,
+      "lng": 24.4018,
+      "precision": "approximate"
+    },
+    "summary": "유럽 마게도냐에 도착한 항구. 일행은 여기서 빌립보로 이동했다.",
+    "historicalContext": "일반적으로 오늘날 카발라와 비정된다.",
+    "bibleReferences": [
+      "Acts 16:11"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:11",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-09",
+        "visitOrder": 9,
+        "previousStopId": "j2-08",
+        "previousPlaceId": "samothrace",
+        "nextStopId": "j2-10",
+        "nextPlaceId": "philippi",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "philippi",
+    "ancientNameKo": "빌립보",
+    "ancientNameEn": "Philippi",
+    "modernName": "크리니데스 인근 유적",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 41.0136,
+      "lng": 24.2864,
+      "precision": "approximate"
+    },
+    "summary": "루디아의 회심, 귀신 들린 여종 사건, 투옥과 간수의 회심이 기록된 로마 식민도시.",
+    "historicalContext": "마게도냐의 로마 식민도시. 유적지는 유네스코 세계유산으로 알려져 있다.",
+    "bibleReferences": [
+      "Acts 16:12-40",
+      "Acts 20:6"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke",
+      "lydia",
+      "philippian_jailer"
+    ],
+    "relatedLetters": [
+      {
+        "name": "빌립보서",
+        "relation": "수신 교회",
+        "confidence": "historical"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:12-40",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 16:12-40; Acts 20:6",
+    "relatedEventIds": [
+      "philippi-prison"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-10",
+        "visitOrder": 10,
+        "previousStopId": "j2-09",
+        "previousPlaceId": "neapolis",
+        "nextStopId": "j2-11",
+        "nextPlaceId": "amphipolis",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:12-40",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-07",
+        "visitOrder": 7,
+        "previousStopId": "j3-06",
+        "previousPlaceId": "macedonia_region",
+        "nextStopId": "j3-08",
+        "nextPlaceId": "troas",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:6",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "amphipolis",
+    "ancientNameKo": "암비볼리",
+    "ancientNameEn": "Amphipolis",
+    "modernName": "암피폴리 유적",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.8197,
+      "lng": 23.8472,
+      "precision": "approximate"
+    },
+    "summary": "빌립보에서 데살로니가로 가는 길의 경유 도시.",
+    "historicalContext": "에그나티아 가도상의 중요 도시. 본문에는 별도 사역 사건이 기록되지 않는다.",
+    "bibleReferences": [
+      "Acts 17:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-11",
+        "visitOrder": 11,
+        "previousStopId": "j2-10",
+        "previousPlaceId": "philippi",
+        "nextStopId": "j2-12",
+        "nextPlaceId": "apollonia",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "apollonia",
+    "ancientNameKo": "아볼로니아",
+    "ancientNameEn": "Apollonia",
+    "modernName": "볼비호 인근",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.641,
+      "lng": 23.489,
+      "precision": "approximate"
+    },
+    "summary": "암비볼리와 데살로니가 사이의 경유 도시.",
+    "historicalContext": "마게도냐의 에그나티아 가도상 도시로 비정되며 정확한 좌표는 근사값이다.",
+    "bibleReferences": [
+      "Acts 17:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-12",
+        "visitOrder": 12,
+        "previousStopId": "j2-11",
+        "previousPlaceId": "amphipolis",
+        "nextStopId": "j2-13",
+        "nextPlaceId": "thessalonica",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "thessalonica",
+    "ancientNameKo": "데살로니가",
+    "ancientNameEn": "Thessalonica",
+    "modernName": "테살로니키",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.6401,
+      "lng": 22.9444,
+      "precision": "approximate"
+    },
+    "summary": "세 안식일 동안 회당에서 강론했으며 야손의 집이 공격받은 도시.",
+    "historicalContext": "마게도냐의 주요 항구이자 오늘날 테살로니키로 이어지는 도시.",
+    "bibleReferences": [
+      "Acts 17:1-9"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "jason"
+    ],
+    "relatedLetters": [
+      {
+        "name": "데살로니가전서",
+        "relation": "수신 교회",
+        "confidence": "historical"
+      },
+      {
+        "name": "데살로니가후서",
+        "relation": "수신 교회",
+        "confidence": "historical"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1-9",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:1-9",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-13",
+        "visitOrder": 13,
+        "previousStopId": "j2-12",
+        "previousPlaceId": "apollonia",
+        "nextStopId": "j2-14",
+        "nextPlaceId": "berea",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1-9",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "berea",
+    "ancientNameKo": "베뢰아",
+    "ancientNameEn": "Berea",
+    "modernName": "베리아",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.5244,
+      "lng": 22.2024,
+      "precision": "approximate"
+    },
+    "summary": "말씀을 간절히 받고 날마다 성경을 상고한 사람들로 알려진 도시.",
+    "historicalContext": "오늘날 그리스 베리아와 연결되는 마게도냐 도시.",
+    "bibleReferences": [
+      "Acts 17:10-15"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:10-15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:10-15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-14",
+        "visitOrder": 14,
+        "previousStopId": "j2-13",
+        "previousPlaceId": "thessalonica",
+        "nextStopId": "j2-15",
+        "nextPlaceId": "athens",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:10-15",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "athens",
+    "ancientNameKo": "아덴",
+    "ancientNameEn": "Athens",
+    "modernName": "아테네",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275,
+      "precision": "approximate"
+    },
+    "summary": "아레오바고 연설과 디오누시오, 다마리의 믿음이 기록된 도시.",
+    "historicalContext": "고전 그리스 문화와 철학의 중심지. 바울은 우상으로 가득한 도시를 보며 변론했다.",
+    "bibleReferences": [
+      "Acts 17:15-34"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "dionysius",
+      "damaris"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:15-34",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 17:15-34",
+    "relatedEventIds": [
+      "areopagus"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-15",
+        "visitOrder": 15,
+        "previousStopId": "j2-14",
+        "previousPlaceId": "berea",
+        "nextStopId": "j2-16",
+        "nextPlaceId": "corinth",
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:15-34",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "corinth",
+    "ancientNameKo": "고린도",
+    "ancientNameEn": "Corinth",
+    "modernName": "아르헤아 코린토스",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.9061,
+      "lng": 22.8794,
+      "precision": "approximate"
+    },
+    "summary": "아굴라와 브리스길라를 만나고 1년 6개월 머물며 사역한 도시.",
+    "historicalContext": "아가야 속주의 중심 도시이자 이스트무스 교통의 요지.",
+    "bibleReferences": [
+      "Acts 18:1-18",
+      "Acts 20:2-3"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "aquila",
+      "priscilla",
+      "gallio"
+    ],
+    "relatedLetters": [
+      {
+        "name": "고린도전서",
+        "relation": "수신 교회",
+        "confidence": "historical"
+      },
+      {
+        "name": "고린도후서",
+        "relation": "수신 교회",
+        "confidence": "historical"
+      },
+      {
+        "name": "로마서",
+        "relation": "고린도 체류 중 기록설이 유력",
+        "confidence": "historical"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:1-18",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:1-18; Acts 20:2-3",
+    "relatedEventIds": [
+      "corinth-ministry"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-16",
+        "visitOrder": 16,
+        "previousStopId": "j2-15",
+        "previousPlaceId": "athens",
+        "nextStopId": "j2-17",
+        "nextPlaceId": "cenchreae",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "aquila",
+          "priscilla"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:1-18",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "cenchreae",
+    "ancientNameKo": "겐그레아",
+    "ancientNameEn": "Cenchreae",
+    "modernName": "케흐리에스",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.8833,
+      "lng": 22.9936,
+      "precision": "approximate"
+    },
+    "summary": "고린도의 동쪽 항구. 바울이 서원 때문에 머리를 깎은 곳으로 기록된다.",
+    "historicalContext": "사로니코스만에 면한 고린도의 항구.",
+    "bibleReferences": [
+      "Acts 18:18",
+      "Romans 16:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-2"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "aquila",
+      "priscilla",
+      "phoebe"
+    ],
+    "relatedLetters": [
+      {
+        "name": "로마서",
+        "relation": "뵈뵈의 교회가 있던 곳",
+        "confidence": "explicit"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:18",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:18; Romans 16:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-17",
+        "visitOrder": 17,
+        "previousStopId": "j2-16",
+        "previousPlaceId": "corinth",
+        "nextStopId": "j2-18",
+        "nextPlaceId": "ephesus",
+        "companions": [
+          "paul",
+          "aquila",
+          "priscilla"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:18",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "ephesus",
+    "ancientNameKo": "에베소",
+    "ancientNameEn": "Ephesus",
+    "modernName": "셀축 인근 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.939,
+      "lng": 27.341,
+      "precision": "approximate"
+    },
+    "summary": "2차 여행 귀환길에 잠시 방문했고, 3차 여행에서는 장기간 가르치며 두란노 서원과 소요 사건이 있었다.",
+    "historicalContext": "로마 아시아 속주의 대표 도시이자 아데미 신전으로 유명한 항구도시.",
+    "bibleReferences": [
+      "Acts 18:19-21",
+      "Acts 19:1-41",
+      "Acts 20:16-17"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "aquila",
+      "priscilla",
+      "apollos",
+      "timothy"
+    ],
+    "relatedLetters": [
+      {
+        "name": "에베소서",
+        "relation": "전통적 수신지",
+        "confidence": "historical"
+      },
+      {
+        "name": "고린도전서",
+        "relation": "에베소 체류 중 기록설",
+        "confidence": "historical"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:19-21",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:19-21; Acts 19:1-41; Acts 20:16-17",
+    "relatedEventIds": [
+      "ephesus-tyrannus",
+      "ephesus-riot"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-18",
+        "visitOrder": 18,
+        "previousStopId": "j2-17",
+        "previousPlaceId": "cenchreae",
+        "nextStopId": "j2-19",
+        "nextPlaceId": "caesarea_maritima",
+        "companions": [
+          "paul",
+          "aquila",
+          "priscilla"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:19-21",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-03",
+        "visitOrder": 3,
+        "previousStopId": "j3-02",
+        "previousPlaceId": "galatia_phrygia",
+        "nextStopId": "j3-04",
+        "nextPlaceId": "macedonia_region",
+        "companions": [
+          "paul",
+          "timothy"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 19:1-20:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "caesarea_maritima",
+    "ancientNameKo": "가이사랴",
+    "ancientNameEn": "Caesarea Maritima",
+    "modernName": "케사리아 유적",
+    "countryId": "israel",
+    "type": "city",
+    "coordinates": {
+      "lat": 32.5,
+      "lng": 34.892,
+      "precision": "approximate"
+    },
+    "summary": "2·3차 여행의 해상 관문이며, 예루살렘 체포 이후 바울이 장기간 구금된 뒤 로마로 출항한 곳.",
+    "historicalContext": "헤롯 대왕이 확장한 로마식 항구와 행정 중심지.",
+    "bibleReferences": [
+      "Acts 18:22",
+      "Acts 21:8-16",
+      "Acts 23:23-26:32",
+      "Acts 27:1-2"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3",
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "philip_evangelist",
+      "agabus",
+      "felix",
+      "festus",
+      "agrippa_ii",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:22; Acts 21:8-16; Acts 23:23-26:32; Acts 27:1-2",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-19",
+        "visitOrder": 19,
+        "previousStopId": "j2-18",
+        "previousPlaceId": "ephesus",
+        "nextStopId": "j2-20",
+        "nextPlaceId": "jerusalem",
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-19",
+        "visitOrder": 19,
+        "previousStopId": "j3-18",
+        "previousPlaceId": "ptolemais",
+        "nextStopId": "j3-20",
+        "nextPlaceId": "jerusalem",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:8-16",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-01",
+        "visitOrder": 1,
+        "previousStopId": null,
+        "previousPlaceId": null,
+        "nextStopId": "jr-02",
+        "nextPlaceId": "sidon",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:1-2",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "jerusalem",
+    "ancientNameKo": "예루살렘",
+    "ancientNameEn": "Jerusalem",
+    "modernName": "예루살렘",
+    "countryId": "israel",
+    "type": "city",
+    "coordinates": {
+      "lat": 31.778,
+      "lng": 35.2354,
+      "precision": "approximate"
+    },
+    "summary": "바울의 회심 이후 방문, 사도회의, 3차 여행 종료와 체포·재판의 중심 무대.",
+    "historicalContext": "고대 도시 좌표는 성전산과 구시가지 일대를 대표점으로 표시한다.",
+    "bibleReferences": [
+      "Acts 9:26-30",
+      "Acts 15:1-35",
+      "Acts 18:22",
+      "Acts 21:17-23:30"
+    ],
+    "relatedJourneyIds": [
+      "journey-2",
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "barnabas",
+      "james",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 9:26-30",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 9:26-30; Acts 15:1-35; Acts 18:22; Acts 21:17-23:30",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-2",
+        "stopId": "j2-20",
+        "visitOrder": 20,
+        "previousStopId": "j2-19",
+        "previousPlaceId": "caesarea_maritima",
+        "nextStopId": "j2-21",
+        "nextPlaceId": "antioch_syria",
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22",
+        "confidence": "inferred"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-20",
+        "visitOrder": 20,
+        "previousStopId": "j3-19",
+        "previousPlaceId": "caesarea_maritima",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:17",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "macedonia_region",
+    "ancientNameKo": "마게도냐 지역",
+    "ancientNameEn": "Macedonia",
+    "modernName": "마게도냐 지역",
+    "countryId": "greece",
+    "type": "region",
+    "coordinates": {
+      "lat": 40.75,
+      "lng": 22.2,
+      "precision": "regional"
+    },
+    "summary": "3차 여행 중 교회들을 권면하며 지나간 지역. 사도행전 20장은 이 구간의 모든 도시를 열거하지 않는다.",
+    "historicalContext": "빌립보·데살로니가·베뢰아를 포함하는 넓은 로마 속주 지역으로 표시한다.",
+    "bibleReferences": [
+      "Acts 19:21",
+      "Acts 20:1-2"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "timothy",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 19:21",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 19:21; Acts 20:1-2",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-04",
+        "visitOrder": 4,
+        "previousStopId": "j3-03",
+        "previousPlaceId": "ephesus",
+        "nextStopId": "j3-05",
+        "nextPlaceId": "achaia_region",
+        "companions": [
+          "paul",
+          "timothy",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:1-2",
+        "confidence": "explicit"
+      },
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-06",
+        "visitOrder": 6,
+        "previousStopId": "j3-05",
+        "previousPlaceId": "achaia_region",
+        "nextStopId": "j3-07",
+        "nextPlaceId": "philippi",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:3",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "achaia_region",
+    "ancientNameKo": "헬라·아가야 지역",
+    "ancientNameEn": "Greece / Achaia",
+    "modernName": "아가야 지역",
+    "countryId": "greece",
+    "type": "region",
+    "coordinates": {
+      "lat": 38.0,
+      "lng": 22.5,
+      "precision": "regional"
+    },
+    "summary": "바울이 3개월 머문 지역. 고린도 체류로 보는 견해가 일반적이지만 본문은 도시를 직접 명시하지 않는다.",
+    "historicalContext": "지도에서는 고린도 인근 아가야 지역 중심점으로 표시하며, 도시 확정은 추론으로 구분한다.",
+    "bibleReferences": [
+      "Acts 20:2-3"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "inferred",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:2-3",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:2-3",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-05",
+        "visitOrder": 5,
+        "previousStopId": "j3-04",
+        "previousPlaceId": "macedonia_region",
+        "nextStopId": "j3-06",
+        "nextPlaceId": "macedonia_region",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:2-3",
+        "confidence": "inferred"
+      }
+    ]
+  },
+  {
+    "id": "assos",
+    "ancientNameKo": "앗소",
+    "ancientNameEn": "Assos",
+    "modernName": "베흐람칼레 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 39.4891,
+      "lng": 26.3364,
+      "precision": "approximate"
+    },
+    "summary": "바울은 육로로 이동해 이곳에서 배에 합류했다.",
+    "historicalContext": "에게해 연안의 언덕 도시와 항구.",
+    "bibleReferences": [
+      "Acts 20:13-14"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:13-14",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:13-14",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-09",
+        "visitOrder": 9,
+        "previousStopId": "j3-08",
+        "previousPlaceId": "troas",
+        "nextStopId": "j3-10",
+        "nextPlaceId": "mitylene",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:13-14",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "mitylene",
+    "ancientNameKo": "미둘레네",
+    "ancientNameEn": "Mitylene",
+    "modernName": "미틸리니",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 39.1077,
+      "lng": 26.5553,
+      "precision": "approximate"
+    },
+    "summary": "앗소에서 배를 타고 도착한 레스보스섬의 항구.",
+    "historicalContext": "레스보스섬의 주요 도시.",
+    "bibleReferences": [
+      "Acts 20:14"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:14",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:14",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-10",
+        "visitOrder": 10,
+        "previousStopId": "j3-09",
+        "previousPlaceId": "assos",
+        "nextStopId": "j3-11",
+        "nextPlaceId": "chios",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:14",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "chios",
+    "ancientNameKo": "기오",
+    "ancientNameEn": "Chios",
+    "modernName": "히오스",
+    "countryId": "greece",
+    "type": "island",
+    "coordinates": {
+      "lat": 38.37,
+      "lng": 26.136,
+      "precision": "approximate"
+    },
+    "summary": "미둘레네 다음 날 맞은편을 지나간 섬.",
+    "historicalContext": "본문은 상륙보다 항해 위치를 기록하므로 섬 대표점으로 표시한다.",
+    "bibleReferences": [
+      "Acts 20:15"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-11",
+        "visitOrder": 11,
+        "previousStopId": "j3-10",
+        "previousPlaceId": "mitylene",
+        "nextStopId": "j3-12",
+        "nextPlaceId": "samos",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "samos",
+    "ancientNameKo": "사모",
+    "ancientNameEn": "Samos",
+    "modernName": "사모스",
+    "countryId": "greece",
+    "type": "island",
+    "coordinates": {
+      "lat": 37.754,
+      "lng": 26.977,
+      "precision": "approximate"
+    },
+    "summary": "기오에서 항해한 뒤 접근한 섬. 일부 사본은 드로길리움 체류를 덧붙인다.",
+    "historicalContext": "에게해 동부 섬. 본문 전승 차이는 데이터 주석에서 구분한다.",
+    "bibleReferences": [
+      "Acts 20:15"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-12",
+        "visitOrder": 12,
+        "previousStopId": "j3-11",
+        "previousPlaceId": "chios",
+        "nextStopId": "j3-13",
+        "nextPlaceId": "miletus",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "miletus",
+    "ancientNameKo": "밀레도",
+    "ancientNameEn": "Miletus",
+    "modernName": "발라트 인근 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.53,
+      "lng": 27.278,
+      "precision": "approximate"
+    },
+    "summary": "에베소 장로들을 불러 고별 권면을 한 항구 도시.",
+    "historicalContext": "마이안드로스강 하구의 고대 이오니아 도시.",
+    "bibleReferences": [
+      "Acts 20:15-38"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15-38",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 20:15-38",
+    "relatedEventIds": [
+      "miletus-farewell"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-13",
+        "visitOrder": 13,
+        "previousStopId": "j3-12",
+        "previousPlaceId": "samos",
+        "nextStopId": "j3-14",
+        "nextPlaceId": "cos",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15-38",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "cos",
+    "ancientNameKo": "고스",
+    "ancientNameEn": "Cos",
+    "modernName": "코스",
+    "countryId": "greece",
+    "type": "island",
+    "coordinates": {
+      "lat": 36.8926,
+      "lng": 27.2877,
+      "precision": "approximate"
+    },
+    "summary": "밀레도에서 예루살렘으로 향하는 항해 중 첫날 도착한 섬.",
+    "historicalContext": "도데카니사 제도의 항구 섬.",
+    "bibleReferences": [
+      "Acts 21:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-14",
+        "visitOrder": 14,
+        "previousStopId": "j3-13",
+        "previousPlaceId": "miletus",
+        "nextStopId": "j3-15",
+        "nextPlaceId": "rhodes",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "rhodes",
+    "ancientNameKo": "로도",
+    "ancientNameEn": "Rhodes",
+    "modernName": "로도스",
+    "countryId": "greece",
+    "type": "island",
+    "coordinates": {
+      "lat": 36.4341,
+      "lng": 28.2176,
+      "precision": "approximate"
+    },
+    "summary": "고스 다음 항해 경유지.",
+    "historicalContext": "동부 지중해의 주요 섬과 항구.",
+    "bibleReferences": [
+      "Acts 21:1"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:1",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-15",
+        "visitOrder": 15,
+        "previousStopId": "j3-14",
+        "previousPlaceId": "cos",
+        "nextStopId": "j3-16",
+        "nextPlaceId": "patara",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "patara",
+    "ancientNameKo": "바다라",
+    "ancientNameEn": "Patara",
+    "modernName": "겔레미시 인근 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.2667,
+      "lng": 29.3189,
+      "precision": "approximate"
+    },
+    "summary": "베니게로 건너가는 배로 갈아탄 항구.",
+    "historicalContext": "리기아의 주요 항구 도시.",
+    "bibleReferences": [
+      "Acts 21:1-2"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1-2",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:1-2",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-16",
+        "visitOrder": 16,
+        "previousStopId": "j3-15",
+        "previousPlaceId": "rhodes",
+        "nextStopId": "j3-17",
+        "nextPlaceId": "tyre",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1-2",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "tyre",
+    "ancientNameKo": "두로",
+    "ancientNameEn": "Tyre",
+    "modernName": "수르",
+    "countryId": "lebanon",
+    "type": "city",
+    "coordinates": {
+      "lat": 33.2705,
+      "lng": 35.2038,
+      "precision": "approximate"
+    },
+    "summary": "짐을 내리는 동안 일주일 머물며 제자들과 교제한 도시.",
+    "historicalContext": "페니키아의 고대 항구도시. 해안선은 고대 이후 크게 변했다.",
+    "bibleReferences": [
+      "Acts 21:3-6"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:3-6",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:3-6",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-17",
+        "visitOrder": 17,
+        "previousStopId": "j3-16",
+        "previousPlaceId": "patara",
+        "nextStopId": "j3-18",
+        "nextPlaceId": "ptolemais",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:3-6",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "ptolemais",
+    "ancientNameKo": "돌레마이",
+    "ancientNameEn": "Ptolemais",
+    "modernName": "아코",
+    "countryId": "israel",
+    "type": "city",
+    "coordinates": {
+      "lat": 32.9236,
+      "lng": 35.0712,
+      "precision": "approximate"
+    },
+    "summary": "두로에서 내려와 형제들에게 문안하고 하루 머문 항구.",
+    "historicalContext": "고대 아코가 헬레니즘·로마 시대에 돌레마이로 불렸다.",
+    "bibleReferences": [
+      "Acts 21:7"
+    ],
+    "relatedJourneyIds": [
+      "journey-3"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:7",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 21:7",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-3",
+        "stopId": "j3-18",
+        "visitOrder": 18,
+        "previousStopId": "j3-17",
+        "previousPlaceId": "tyre",
+        "nextStopId": "j3-19",
+        "nextPlaceId": "caesarea_maritima",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:7",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "sidon",
+    "ancientNameKo": "시돈",
+    "ancientNameEn": "Sidon",
+    "modernName": "사이다",
+    "countryId": "lebanon",
+    "type": "city",
+    "coordinates": {
+      "lat": 33.5606,
+      "lng": 35.3759,
+      "precision": "approximate"
+    },
+    "summary": "로마 압송 항해 첫 기항지. 백부장 율리오가 바울에게 친구들의 돌봄을 받도록 허락했다.",
+    "historicalContext": "페니키아의 대표적 항구도시.",
+    "bibleReferences": [
+      "Acts 27:3"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:3",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:3",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-02",
+        "visitOrder": 2,
+        "previousStopId": "jr-01",
+        "previousPlaceId": "caesarea_maritima",
+        "nextStopId": "jr-03",
+        "nextPlaceId": "cyprus_leeward",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:3",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "cyprus_leeward",
+    "ancientNameKo": "구브로 해역",
+    "ancientNameEn": "Lee of Cyprus",
+    "modernName": "구브로 북동 해역",
+    "countryId": "cyprus",
+    "type": "sea_waypoint",
+    "coordinates": {
+      "lat": 35.1,
+      "lng": 34.3,
+      "precision": "regional"
+    },
+    "summary": "맞바람 때문에 구브로 해안을 의지해 항해한 구간. 특정 도시 상륙은 기록되지 않는다.",
+    "historicalContext": "해상 위치는 항해 방향을 설명하기 위한 근사 웨이포인트다.",
+    "bibleReferences": [
+      "Acts 27:4"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:4",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:4",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-03",
+        "visitOrder": 3,
+        "previousStopId": "jr-02",
+        "previousPlaceId": "sidon",
+        "nextStopId": "jr-04",
+        "nextPlaceId": "myra",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:4",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "myra",
+    "ancientNameKo": "무라",
+    "ancientNameEn": "Myra",
+    "modernName": "뎀레 인근 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.2589,
+      "lng": 29.985,
+      "precision": "approximate"
+    },
+    "summary": "이탈리아로 가는 알렉산드리아 배로 갈아탄 리기아 항구.",
+    "historicalContext": "리기아의 항구 도시. 고대 항만 안드리아케와 연계된다.",
+    "bibleReferences": [
+      "Acts 27:5-6"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:5-6",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:5-6",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-04",
+        "visitOrder": 4,
+        "previousStopId": "jr-03",
+        "previousPlaceId": "cyprus_leeward",
+        "nextStopId": "jr-05",
+        "nextPlaceId": "cnidus",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:5-6",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "cnidus",
+    "ancientNameKo": "니도",
+    "ancientNameEn": "Cnidus",
+    "modernName": "테키르 곶 유적",
+    "countryId": "turkey",
+    "type": "city",
+    "coordinates": {
+      "lat": 36.685,
+      "lng": 27.3742,
+      "precision": "approximate"
+    },
+    "summary": "바람 때문에 어렵게 접근한 소아시아 남서단 항로 지점.",
+    "historicalContext": "다트차 반도 끝의 고대 항구 도시.",
+    "bibleReferences": [
+      "Acts 27:7"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:7",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-05",
+        "visitOrder": 5,
+        "previousStopId": "jr-04",
+        "previousPlaceId": "myra",
+        "nextStopId": "jr-06",
+        "nextPlaceId": "salmone",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "salmone",
+    "ancientNameKo": "살모네 앞",
+    "ancientNameEn": "Off Salmone",
+    "modernName": "크레타 동단 살모니 곶",
+    "countryId": "greece",
+    "type": "sea_waypoint",
+    "coordinates": {
+      "lat": 35.157,
+      "lng": 26.256,
+      "precision": "approximate"
+    },
+    "summary": "바람을 피해 크레타 살모네 곶 아래로 항해한 지점.",
+    "historicalContext": "정확한 선박 위치가 아니라 본문이 언급한 곶의 대표 좌표다.",
+    "bibleReferences": [
+      "Acts 27:7"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:7",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-06",
+        "visitOrder": 6,
+        "previousStopId": "jr-05",
+        "previousPlaceId": "cnidus",
+        "nextStopId": "jr-07",
+        "nextPlaceId": "fair_havens",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "fair_havens",
+    "ancientNameKo": "미항",
+    "ancientNameEn": "Fair Havens",
+    "modernName": "칼로이 리메네스",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 34.9356,
+      "lng": 24.806,
+      "precision": "approximate"
+    },
+    "summary": "항해가 위험한 계절에 이르렀고 바울이 출항을 경고한 크레타 남부 정박지.",
+    "historicalContext": "라새아 가까운 항구로 기록된다. 전통적으로 칼로이 리메네스와 비정한다.",
+    "bibleReferences": [
+      "Acts 27:8-12"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:8-12",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:8-12",
+    "relatedEventIds": [
+      "fair-havens-warning"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-07",
+        "visitOrder": 7,
+        "previousStopId": "jr-06",
+        "previousPlaceId": "salmone",
+        "nextStopId": "jr-08",
+        "nextPlaceId": "malta",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:8-12",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "lasea",
+    "ancientNameKo": "라새아",
+    "ancientNameEn": "Lasea",
+    "modernName": "크레타 남부 후보 유적",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 34.932,
+      "lng": 24.9,
+      "precision": "approximate"
+    },
+    "summary": "미항에서 가까운 도시로만 언급된다. 바울 일행의 실제 방문 여부는 기록되지 않는다.",
+    "historicalContext": "고대 위치는 미항 인근으로 비정되며 대표 좌표는 근사값이다.",
+    "bibleReferences": [
+      "Acts 27:8"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "nearby",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:8",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:8",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": null,
+        "visitOrder": null,
+        "previousStopId": "jr-07",
+        "previousPlaceId": "fair_havens",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:8",
+        "confidence": "explicit",
+        "visitStatus": "nearby-mentioned"
+      }
+    ]
+  },
+  {
+    "id": "phoenix_crete",
+    "ancientNameKo": "뵈닉스",
+    "ancientNameEn": "Phoenix",
+    "modernName": "크레타 남서부 항구 후보",
+    "countryId": "greece",
+    "type": "city",
+    "coordinates": {
+      "lat": 35.19,
+      "lng": 24.06,
+      "precision": "regional"
+    },
+    "summary": "겨울을 나기 위해 도달하려 했던 목적지였으나 폭풍 때문에 도착하지 못했다.",
+    "historicalContext": "항구의 정확한 현대 비정과 본문 방위 표현 해석에는 논의가 있다.",
+    "bibleReferences": [
+      "Acts 27:12-15"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "relatedLetters": [],
+    "confidence": "disputed",
+    "status": "unreached",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:12-15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:12-15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": null,
+        "visitOrder": null,
+        "previousStopId": "jr-07",
+        "previousPlaceId": "fair_havens",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:12-15",
+        "confidence": "explicit",
+        "visitStatus": "planned-unreached"
+      }
+    ]
+  },
+  {
+    "id": "malta",
+    "ancientNameKo": "멜리데",
+    "ancientNameEn": "Melite",
+    "modernName": "몰타",
+    "countryId": "malta",
+    "type": "island",
+    "coordinates": {
+      "lat": 35.884,
+      "lng": 14.506,
+      "precision": "approximate"
+    },
+    "summary": "배가 파선했으나 전원이 구조되었고, 바울이 섬 사람들을 섬기며 세 달 머문 곳.",
+    "historicalContext": "전통적으로 오늘날 몰타로 비정한다. 다른 소수 견해도 있으나 본 프로젝트는 주류 비정을 사용한다.",
+    "bibleReferences": [
+      "Acts 27:39-28:11"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius",
+      "publius"
+    ],
+    "relatedLetters": [],
+    "confidence": "historical",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:39-28:11",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:39-28:11",
+    "relatedEventIds": [
+      "shipwreck-malta"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-08",
+        "visitOrder": 8,
+        "previousStopId": "jr-07",
+        "previousPlaceId": "fair_havens",
+        "nextStopId": "jr-09",
+        "nextPlaceId": "syracuse",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:13-28:11",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "syracuse",
+    "ancientNameKo": "수라구사",
+    "ancientNameEn": "Syracuse",
+    "modernName": "시라쿠사",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 37.0755,
+      "lng": 15.2866,
+      "precision": "approximate"
+    },
+    "summary": "멜리데를 떠난 뒤 사흘 머문 시칠리아 항구.",
+    "historicalContext": "고대 시칠리아의 주요 도시.",
+    "bibleReferences": [
+      "Acts 28:12"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:12",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:12",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-09",
+        "visitOrder": 9,
+        "previousStopId": "jr-08",
+        "previousPlaceId": "malta",
+        "nextStopId": "jr-10",
+        "nextPlaceId": "rhegium",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:11-12",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "rhegium",
+    "ancientNameKo": "레기온",
+    "ancientNameEn": "Rhegium",
+    "modernName": "레조디칼라브리아",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 38.1113,
+      "lng": 15.6473,
+      "precision": "approximate"
+    },
+    "summary": "시라쿠사 다음 기항지. 남풍이 불자 보디올로 향했다.",
+    "historicalContext": "이탈리아 반도 남단의 메시나 해협 항구.",
+    "bibleReferences": [
+      "Acts 28:13"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:13",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-10",
+        "visitOrder": 10,
+        "previousStopId": "jr-09",
+        "previousPlaceId": "syracuse",
+        "nextStopId": "jr-11",
+        "nextPlaceId": "puteoli",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "puteoli",
+    "ancientNameKo": "보디올",
+    "ancientNameEn": "Puteoli",
+    "modernName": "포추올리",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 40.823,
+      "lng": 14.1222,
+      "precision": "approximate"
+    },
+    "summary": "형제들을 만나 이레를 함께 지낸 이탈리아 항구.",
+    "historicalContext": "나폴리만의 로마 시대 주요 무역항.",
+    "bibleReferences": [
+      "Acts 28:13-14"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13-14",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:13-14",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-11",
+        "visitOrder": 11,
+        "previousStopId": "jr-10",
+        "previousPlaceId": "rhegium",
+        "nextStopId": "jr-12",
+        "nextPlaceId": "forum_appius",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13-14",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "forum_appius",
+    "ancientNameKo": "압비오 광장",
+    "ancientNameEn": "Forum of Appius",
+    "modernName": "포로 아피오 인근",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 41.468,
+      "lng": 12.985,
+      "precision": "approximate"
+    },
+    "summary": "로마의 형제들이 바울을 맞으러 나온 아피아 가도의 역참.",
+    "historicalContext": "로마에서 남동쪽으로 이어지는 아피아 가도상의 정거장.",
+    "bibleReferences": [
+      "Acts 28:15"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-12",
+        "visitOrder": 12,
+        "previousStopId": "jr-11",
+        "previousPlaceId": "puteoli",
+        "nextStopId": "jr-13",
+        "nextPlaceId": "three_taverns",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "three_taverns",
+    "ancientNameKo": "삼관",
+    "ancientNameEn": "Three Taverns",
+    "modernName": "치스테르나 디 라티나 인근 추정",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 41.59,
+      "lng": 12.82,
+      "precision": "approximate"
+    },
+    "summary": "로마 형제들이 바울을 맞이한 또 다른 아피아 가도 지점.",
+    "historicalContext": "정확한 위치는 논의가 있으며 대표 좌표는 전통적 비정의 근사값이다.",
+    "bibleReferences": [
+      "Acts 28:15"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:15",
+    "relatedEventIds": [],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-13",
+        "visitOrder": 13,
+        "previousStopId": "jr-12",
+        "previousPlaceId": "forum_appius",
+        "nextStopId": "jr-14",
+        "nextPlaceId": "rome",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15",
+        "confidence": "explicit"
+      }
+    ]
+  },
+  {
+    "id": "rome",
+    "ancientNameKo": "로마",
+    "ancientNameEn": "Rome",
+    "modernName": "로마",
+    "countryId": "italy",
+    "type": "city",
+    "coordinates": {
+      "lat": 41.8933,
+      "lng": 12.4829,
+      "precision": "approximate"
+    },
+    "summary": "바울이 군인의 감시 아래 거주하며 두 해 동안 하나님 나라와 예수 그리스도를 가르친 압송 여정의 종착지.",
+    "historicalContext": "로마 제국의 수도. 지도 좌표는 고대 도심의 대표점이다.",
+    "bibleReferences": [
+      "Acts 28:16-31"
+    ],
+    "relatedJourneyIds": [
+      "journey-rome"
+    ],
+    "relatedPeopleIds": [
+      "paul",
+      "luke",
+      "aristarchus"
+    ],
+    "relatedLetters": [
+      {
+        "name": "로마서",
+        "relation": "로마 교회에 보낸 서신",
+        "confidence": "explicit"
+      },
+      {
+        "name": "빌립보서·골로새서·빌레몬서·에베소서",
+        "relation": "로마 투옥 중 기록설이 전통적으로 유력하나 논의 있음",
+        "confidence": "disputed"
+      }
+    ],
+    "confidence": "explicit",
+    "status": "visited",
+    "sources": [
+      {
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:16-31",
+        "confidence": "explicit",
+        "note": "사도행전 본문"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 28:16-31",
+    "relatedEventIds": [
+      "rome-ministry"
+    ],
+    "visits": [
+      {
+        "journeyId": "journey-rome",
+        "stopId": "jr-14",
+        "visitOrder": 14,
+        "previousStopId": "jr-13",
+        "previousPlaceId": "three_taverns",
+        "nextStopId": null,
+        "nextPlaceId": null,
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:16-31",
+        "confidence": "explicit"
+      }
+    ]
+  }
+]

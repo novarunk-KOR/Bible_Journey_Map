@@ -1,0 +1,1413 @@
+[
+  {
+    "id": "journey-1",
+    "title": "1차 전도여행",
+    "shortTitle": "1차",
+    "color": "#2F6FED",
+    "period": "약 AD 46–48 (연대는 학자에 따라 차이)",
+    "purpose": "성령의 파송을 받아 구브로와 남부 소아시아에서 복음을 전하고 교회 공동체를 세움.",
+    "companions": [
+      "paul",
+      "barnabas",
+      "john_mark"
+    ],
+    "keyEvents": [
+      "구브로 사역",
+      "비시디아 안디옥 설교",
+      "루스드라 치유와 박해",
+      "귀환하며 장로 세움"
+    ],
+    "keyReference": "Acts 13:1-14:28",
+    "summary": "수리아 안디옥에서 출발해 구브로를 거쳐 남부 갈라디아 지역에 복음을 전하고 같은 길을 되짚어 교회들을 격려한 뒤 돌아온 여행.",
+    "confidence": "explicit",
+    "stops": [
+      {
+        "id": "j1-01",
+        "placeId": "antioch_syria",
+        "order": 1,
+        "bibleReference": "Acts 13:1-3",
+        "eventSummary": "성령의 명령에 따라 바나바와 사울을 따로 세워 파송했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": null,
+        "nextStopId": "j1-02",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:1-3"
+      },
+      {
+        "id": "j1-02",
+        "placeId": "seleucia_pieria",
+        "order": 2,
+        "bibleReference": "Acts 13:4",
+        "eventSummary": "실루기아에서 구브로로 출항했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-01",
+        "nextStopId": "j1-03",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:4"
+      },
+      {
+        "id": "j1-03",
+        "placeId": "salamis",
+        "order": 3,
+        "bibleReference": "Acts 13:5",
+        "eventSummary": "유대인의 여러 회당에서 하나님의 말씀을 전했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j1-02",
+        "nextStopId": "j1-04",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:5"
+      },
+      {
+        "id": "j1-04",
+        "placeId": "paphos",
+        "order": 4,
+        "bibleReference": "Acts 13:6-12",
+        "eventSummary": "엘루마를 꾸짖고 총독 서기오 바울이 믿었다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-03",
+        "nextStopId": "j1-05",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:6-12"
+      },
+      {
+        "id": "j1-05",
+        "placeId": "perga",
+        "order": 5,
+        "bibleReference": "Acts 13:13",
+        "eventSummary": "요한 마가가 일행을 떠나 예루살렘으로 돌아갔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas",
+          "john_mark"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j1-04",
+        "nextStopId": "j1-06",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:13"
+      },
+      {
+        "id": "j1-06",
+        "placeId": "antioch_pisidia",
+        "order": 6,
+        "bibleReference": "Acts 13:14-52",
+        "eventSummary": "회당에서 설교하고 이방인에게 말씀이 확장되었으나 박해를 받았다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-05",
+        "nextStopId": "j1-07",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 13:14-52"
+      },
+      {
+        "id": "j1-07",
+        "placeId": "iconium",
+        "order": 7,
+        "bibleReference": "Acts 14:1-7",
+        "eventSummary": "오랫동안 담대히 말했으나 돌로 치려는 움직임을 피해 떠났다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-06",
+        "nextStopId": "j1-08",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:1-7"
+      },
+      {
+        "id": "j1-08",
+        "placeId": "lystra",
+        "order": 8,
+        "bibleReference": "Acts 14:8-20",
+        "eventSummary": "걷지 못한 사람을 고쳤고 신으로 오해받았으며 바울이 돌에 맞았다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-07",
+        "nextStopId": "j1-09",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:8-20"
+      },
+      {
+        "id": "j1-09",
+        "placeId": "derbe",
+        "order": 9,
+        "bibleReference": "Acts 14:20-21",
+        "eventSummary": "복음을 전하여 많은 사람을 제자로 삼았다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-08",
+        "nextStopId": "j1-10",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:20-21"
+      },
+      {
+        "id": "j1-10",
+        "placeId": "lystra",
+        "order": 10,
+        "bibleReference": "Acts 14:21-23",
+        "eventSummary": "귀환하며 제자들의 마음을 굳게 하고 장로들을 세웠다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-09",
+        "nextStopId": "j1-11",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23"
+      },
+      {
+        "id": "j1-11",
+        "placeId": "iconium",
+        "order": 11,
+        "bibleReference": "Acts 14:21-23",
+        "eventSummary": "귀환하며 교회를 격려했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-10",
+        "nextStopId": "j1-12",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23"
+      },
+      {
+        "id": "j1-12",
+        "placeId": "antioch_pisidia",
+        "order": 12,
+        "bibleReference": "Acts 14:21-23",
+        "eventSummary": "환난을 통과해 하나님 나라에 들어감을 권면했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-11",
+        "nextStopId": "j1-13",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:21-23"
+      },
+      {
+        "id": "j1-13",
+        "placeId": "perga",
+        "order": 13,
+        "bibleReference": "Acts 14:24-25",
+        "eventSummary": "버가에서 말씀을 전했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-12",
+        "nextStopId": "j1-14",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:24-25"
+      },
+      {
+        "id": "j1-14",
+        "placeId": "attalia",
+        "order": 14,
+        "bibleReference": "Acts 14:25-26",
+        "eventSummary": "앗달리아에서 배를 타고 안디옥으로 향했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j1-13",
+        "nextStopId": "j1-15",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:25-26"
+      },
+      {
+        "id": "j1-15",
+        "placeId": "antioch_syria",
+        "order": 15,
+        "bibleReference": "Acts 14:26-28",
+        "eventSummary": "하나님이 행하신 일과 이방인에게 믿음의 문을 여신 일을 보고했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "barnabas"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j1-14",
+        "nextStopId": null,
+        "sourceType": "Bible",
+        "sourceReference": "Acts 14:26-28"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 13:1-14:28"
+  },
+  {
+    "id": "journey-2",
+    "title": "2차 전도여행",
+    "shortTitle": "2차",
+    "color": "#8B5CF6",
+    "period": "약 AD 49–52 (연대는 학자에 따라 차이)",
+    "purpose": "기존 교회를 재방문하고 마게도냐 환상에 따라 복음 사역을 유럽으로 확장함.",
+    "companions": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke"
+    ],
+    "keyEvents": [
+      "디모데 합류",
+      "마게도냐 환상",
+      "빌립보 감옥",
+      "아레오바고 연설",
+      "고린도 장기 사역"
+    ],
+    "keyReference": "Acts 15:36-18:22",
+    "summary": "육로로 소아시아 교회들을 방문한 뒤 드로아에서 마게도냐로 건너가 빌립보·데살로니가·베뢰아·아덴·고린도에서 사역하고 에베소를 거쳐 귀환한 여행.",
+    "confidence": "explicit",
+    "stops": [
+      {
+        "id": "j2-01",
+        "placeId": "antioch_syria",
+        "order": 1,
+        "bibleReference": "Acts 15:36-40",
+        "eventSummary": "바나바와 갈라선 뒤 실라와 함께 출발했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": null,
+        "nextStopId": "j2-02",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 15:36-40"
+      },
+      {
+        "id": "j2-02",
+        "placeId": "syria_cilicia_region",
+        "order": 2,
+        "bibleReference": "Acts 15:41",
+        "eventSummary": "수리아와 길리기아를 다니며 교회들을 굳게 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-01",
+        "nextStopId": "j2-03",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 15:41"
+      },
+      {
+        "id": "j2-03",
+        "placeId": "derbe",
+        "order": 3,
+        "bibleReference": "Acts 16:1",
+        "eventSummary": "더베와 루스드라에 이르렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-02",
+        "nextStopId": "j2-04",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:1"
+      },
+      {
+        "id": "j2-04",
+        "placeId": "lystra",
+        "order": 4,
+        "bibleReference": "Acts 16:1-5",
+        "eventSummary": "디모데가 일행에 합류했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-03",
+        "nextStopId": "j2-05",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:1-5"
+      },
+      {
+        "id": "j2-05",
+        "placeId": "galatia_phrygia",
+        "order": 5,
+        "bibleReference": "Acts 16:6",
+        "eventSummary": "성령이 아시아에서 말씀 전하는 것을 막으셔서 브루기아와 갈라디아 땅을 통과했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-04",
+        "nextStopId": "j2-06",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:6"
+      },
+      {
+        "id": "j2-06",
+        "placeId": "mysia",
+        "order": 6,
+        "bibleReference": "Acts 16:7-8",
+        "eventSummary": "비두니아로 가려 했으나 허락되지 않아 무시아를 지나 드로아로 내려갔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-05",
+        "nextStopId": "j2-07",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:7-8"
+      },
+      {
+        "id": "j2-07",
+        "placeId": "troas",
+        "order": 7,
+        "bibleReference": "Acts 16:8-10",
+        "eventSummary": "마게도냐 사람의 환상을 보고 건너가기로 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-06",
+        "nextStopId": "j2-08",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:8-10"
+      },
+      {
+        "id": "j2-08",
+        "placeId": "samothrace",
+        "order": 8,
+        "bibleReference": "Acts 16:11",
+        "eventSummary": "드로아에서 배로 직행해 사모드라게에 이르렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j2-07",
+        "nextStopId": "j2-09",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11"
+      },
+      {
+        "id": "j2-09",
+        "placeId": "neapolis",
+        "order": 9,
+        "bibleReference": "Acts 16:11",
+        "eventSummary": "다음 날 네압볼리에 도착했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j2-08",
+        "nextStopId": "j2-10",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:11"
+      },
+      {
+        "id": "j2-10",
+        "placeId": "philippi",
+        "order": 10,
+        "bibleReference": "Acts 16:12-40",
+        "eventSummary": "루디아, 여종, 감옥과 간수 사건을 통해 교회가 세워졌다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-09",
+        "nextStopId": "j2-11",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 16:12-40"
+      },
+      {
+        "id": "j2-11",
+        "placeId": "amphipolis",
+        "order": 11,
+        "bibleReference": "Acts 17:1",
+        "eventSummary": "암비볼리를 지나갔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-10",
+        "nextStopId": "j2-12",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1"
+      },
+      {
+        "id": "j2-12",
+        "placeId": "apollonia",
+        "order": 12,
+        "bibleReference": "Acts 17:1",
+        "eventSummary": "아볼로니아를 지나갔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-11",
+        "nextStopId": "j2-13",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1"
+      },
+      {
+        "id": "j2-13",
+        "placeId": "thessalonica",
+        "order": 13,
+        "bibleReference": "Acts 17:1-9",
+        "eventSummary": "세 안식일 동안 강론했고 야손이 고난을 받았다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-12",
+        "nextStopId": "j2-14",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:1-9"
+      },
+      {
+        "id": "j2-14",
+        "placeId": "berea",
+        "order": 14,
+        "bibleReference": "Acts 17:10-15",
+        "eventSummary": "사람들이 날마다 성경을 상고했으나 반대자들이 따라왔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-13",
+        "nextStopId": "j2-15",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:10-15"
+      },
+      {
+        "id": "j2-15",
+        "placeId": "athens",
+        "order": 15,
+        "bibleReference": "Acts 17:15-34",
+        "eventSummary": "회당과 광장에서 변론하고 아레오바고에서 연설했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-14",
+        "nextStopId": "j2-16",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 17:15-34"
+      },
+      {
+        "id": "j2-16",
+        "placeId": "corinth",
+        "order": 16,
+        "bibleReference": "Acts 18:1-18",
+        "eventSummary": "아굴라와 브리스길라를 만나고 1년 6개월 가르쳤다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "silas",
+          "timothy",
+          "aquila",
+          "priscilla"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-15",
+        "nextStopId": "j2-17",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:1-18"
+      },
+      {
+        "id": "j2-17",
+        "placeId": "cenchreae",
+        "order": 17,
+        "bibleReference": "Acts 18:18",
+        "eventSummary": "서원 때문에 머리를 깎고 수리아로 출항했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "aquila",
+          "priscilla"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-16",
+        "nextStopId": "j2-18",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:18"
+      },
+      {
+        "id": "j2-18",
+        "placeId": "ephesus",
+        "order": 18,
+        "bibleReference": "Acts 18:19-21",
+        "eventSummary": "회당에서 변론하고 다시 돌아오겠다고 약속했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "aquila",
+          "priscilla"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j2-17",
+        "nextStopId": "j2-19",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:19-21"
+      },
+      {
+        "id": "j2-19",
+        "placeId": "caesarea_maritima",
+        "order": 19,
+        "bibleReference": "Acts 18:22",
+        "eventSummary": "가이사랴에 상륙했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j2-18",
+        "nextStopId": "j2-20",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22"
+      },
+      {
+        "id": "j2-20",
+        "placeId": "jerusalem",
+        "order": 20,
+        "bibleReference": "Acts 18:22",
+        "eventSummary": "“올라가 교회에 문안”한 대상을 예루살렘 교회로 보는 일반적 해석을 반영한다.",
+        "confidence": "inferred",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-19",
+        "nextStopId": "j2-21",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22"
+      },
+      {
+        "id": "j2-21",
+        "placeId": "antioch_syria",
+        "order": 21,
+        "bibleReference": "Acts 18:22",
+        "eventSummary": "안디옥으로 내려가 2차 여행을 마쳤다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j2-20",
+        "nextStopId": null,
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:22"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 15:36-18:22"
+  },
+  {
+    "id": "journey-3",
+    "title": "3차 전도여행",
+    "shortTitle": "3차",
+    "color": "#D99A21",
+    "period": "약 AD 52–57 (연대는 학자에 따라 차이)",
+    "purpose": "갈라디아와 브루기아 교회를 굳게 하고 에베소를 중심으로 장기간 가르친 뒤 예루살렘으로 돌아감.",
+    "companions": [
+      "paul",
+      "timothy",
+      "luke"
+    ],
+    "keyEvents": [
+      "에베소 장기 사역",
+      "아데미 소요",
+      "마게도냐·헬라 권면",
+      "유두고 사건",
+      "밀레도 고별 설교"
+    ],
+    "keyReference": "Acts 18:23-21:17",
+    "summary": "에베소를 중심으로 아시아에서 사역한 뒤 마게도냐와 헬라를 방문하고, 여러 항구를 거쳐 예루살렘으로 향한 여행.",
+    "confidence": "explicit",
+    "stops": [
+      {
+        "id": "j3-01",
+        "placeId": "antioch_syria",
+        "order": 1,
+        "bibleReference": "Acts 18:23",
+        "eventSummary": "얼마 동안 머문 뒤 다시 출발했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": null,
+        "nextStopId": "j3-02",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:23"
+      },
+      {
+        "id": "j3-02",
+        "placeId": "galatia_phrygia",
+        "order": 2,
+        "bibleReference": "Acts 18:23",
+        "eventSummary": "갈라디아와 브루기아 땅을 차례로 다니며 제자들을 굳게 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-01",
+        "nextStopId": "j3-03",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 18:23"
+      },
+      {
+        "id": "j3-03",
+        "placeId": "ephesus",
+        "order": 3,
+        "bibleReference": "Acts 19:1-20:1",
+        "eventSummary": "두란노 서원에서 가르치고 큰 역사가 일어났으며 아데미 관련 소요가 발생했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "timothy"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-02",
+        "nextStopId": "j3-04",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 19:1-20:1"
+      },
+      {
+        "id": "j3-04",
+        "placeId": "macedonia_region",
+        "order": 4,
+        "bibleReference": "Acts 20:1-2",
+        "eventSummary": "마게도냐로 가서 많은 말로 제자들을 권면했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "timothy",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-03",
+        "nextStopId": "j3-05",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:1-2"
+      },
+      {
+        "id": "j3-05",
+        "placeId": "achaia_region",
+        "order": 5,
+        "bibleReference": "Acts 20:2-3",
+        "eventSummary": "헬라에 이르러 석 달 머물렀다. 고린도 체류로 보는 견해가 유력하다.",
+        "confidence": "inferred",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-04",
+        "nextStopId": "j3-06",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:2-3"
+      },
+      {
+        "id": "j3-06",
+        "placeId": "macedonia_region",
+        "order": 6,
+        "bibleReference": "Acts 20:3",
+        "eventSummary": "배로 수리아에 가려다 음모를 알고 마게도냐로 돌아가기로 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-05",
+        "nextStopId": "j3-07",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:3"
+      },
+      {
+        "id": "j3-07",
+        "placeId": "philippi",
+        "order": 7,
+        "bibleReference": "Acts 20:6",
+        "eventSummary": "무교절 후 빌립보에서 배를 탔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-06",
+        "nextStopId": "j3-08",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:6"
+      },
+      {
+        "id": "j3-08",
+        "placeId": "troas",
+        "order": 8,
+        "bibleReference": "Acts 20:6-12",
+        "eventSummary": "일주일 머물며 떡을 떼고 유두고 사건이 일어났다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-07",
+        "nextStopId": "j3-09",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:6-12"
+      },
+      {
+        "id": "j3-09",
+        "placeId": "assos",
+        "order": 9,
+        "bibleReference": "Acts 20:13-14",
+        "eventSummary": "바울은 걸어서 앗소로 가 배에 합류했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-08",
+        "nextStopId": "j3-10",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:13-14"
+      },
+      {
+        "id": "j3-10",
+        "placeId": "mitylene",
+        "order": 10,
+        "bibleReference": "Acts 20:14",
+        "eventSummary": "앗소에서 배를 타고 미둘레네에 도착했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-09",
+        "nextStopId": "j3-11",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:14"
+      },
+      {
+        "id": "j3-11",
+        "placeId": "chios",
+        "order": 11,
+        "bibleReference": "Acts 20:15",
+        "eventSummary": "다음 날 기오 맞은편에 이르렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-10",
+        "nextStopId": "j3-12",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15"
+      },
+      {
+        "id": "j3-12",
+        "placeId": "samos",
+        "order": 12,
+        "bibleReference": "Acts 20:15",
+        "eventSummary": "사모에 접근했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-11",
+        "nextStopId": "j3-13",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15"
+      },
+      {
+        "id": "j3-13",
+        "placeId": "miletus",
+        "order": 13,
+        "bibleReference": "Acts 20:15-38",
+        "eventSummary": "에베소 장로들을 불러 고별 권면을 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-12",
+        "nextStopId": "j3-14",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 20:15-38"
+      },
+      {
+        "id": "j3-14",
+        "placeId": "cos",
+        "order": 14,
+        "bibleReference": "Acts 21:1",
+        "eventSummary": "직행하여 고스에 도착했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-13",
+        "nextStopId": "j3-15",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1"
+      },
+      {
+        "id": "j3-15",
+        "placeId": "rhodes",
+        "order": 15,
+        "bibleReference": "Acts 21:1",
+        "eventSummary": "다음 날 로도에 도착했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-14",
+        "nextStopId": "j3-16",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1"
+      },
+      {
+        "id": "j3-16",
+        "placeId": "patara",
+        "order": 16,
+        "bibleReference": "Acts 21:1-2",
+        "eventSummary": "바다라에서 베니게로 가는 배를 갈아탔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-15",
+        "nextStopId": "j3-17",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:1-2"
+      },
+      {
+        "id": "j3-17",
+        "placeId": "tyre",
+        "order": 17,
+        "bibleReference": "Acts 21:3-6",
+        "eventSummary": "두로에서 일주일 머물며 제자들과 기도하고 작별했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-16",
+        "nextStopId": "j3-18",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:3-6"
+      },
+      {
+        "id": "j3-18",
+        "placeId": "ptolemais",
+        "order": 18,
+        "bibleReference": "Acts 21:7",
+        "eventSummary": "형제들에게 문안하고 하루 머물렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "j3-17",
+        "nextStopId": "j3-19",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:7"
+      },
+      {
+        "id": "j3-19",
+        "placeId": "caesarea_maritima",
+        "order": 19,
+        "bibleReference": "Acts 21:8-16",
+        "eventSummary": "전도자 빌립의 집에 머물렀고 아가보가 결박을 예언했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-18",
+        "nextStopId": "j3-20",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:8-16"
+      },
+      {
+        "id": "j3-20",
+        "placeId": "jerusalem",
+        "order": 20,
+        "bibleReference": "Acts 21:17",
+        "eventSummary": "형제들의 영접을 받으며 예루살렘에 도착했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "j3-19",
+        "nextStopId": null,
+        "sourceType": "Bible",
+        "sourceReference": "Acts 21:17"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 18:23-21:17"
+  },
+  {
+    "id": "journey-rome",
+    "title": "로마 압송",
+    "shortTitle": "로마",
+    "color": "#D9544D",
+    "period": "약 AD 59–60/61 (연대는 학자에 따라 차이)",
+    "purpose": "가이사에게 상소한 바울이 로마 군의 호송 아래 이탈리아로 이동함.",
+    "companions": [
+      "paul",
+      "luke",
+      "aristarchus",
+      "julius"
+    ],
+    "keyEvents": [
+      "미항의 경고",
+      "유라굴로 폭풍",
+      "멜리데 파선과 구조",
+      "압비오 광장의 영접",
+      "로마 가택 구금"
+    ],
+    "keyReference": "Acts 27:1-28:31",
+    "summary": "가이사랴에서 출항해 폭풍과 파선을 겪고 멜리데에서 겨울을 난 뒤 이탈리아 남부와 아피아 가도를 거쳐 로마에 도착한 압송 여정.",
+    "confidence": "explicit",
+    "stops": [
+      {
+        "id": "jr-01",
+        "placeId": "caesarea_maritima",
+        "order": 1,
+        "bibleReference": "Acts 27:1-2",
+        "eventSummary": "바울과 다른 죄수들이 백부장 율리오에게 인계되어 이탈리아로 출항했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": null,
+        "nextStopId": "jr-02",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:1-2"
+      },
+      {
+        "id": "jr-02",
+        "placeId": "sidon",
+        "order": 2,
+        "bibleReference": "Acts 27:3",
+        "eventSummary": "율리오가 바울에게 친구들의 돌봄을 받도록 허락했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-01",
+        "nextStopId": "jr-03",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:3"
+      },
+      {
+        "id": "jr-03",
+        "placeId": "cyprus_leeward",
+        "order": 3,
+        "bibleReference": "Acts 27:4",
+        "eventSummary": "맞바람을 피해 구브로 해안을 의지해 항해했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-02",
+        "nextStopId": "jr-04",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:4"
+      },
+      {
+        "id": "jr-04",
+        "placeId": "myra",
+        "order": 4,
+        "bibleReference": "Acts 27:5-6",
+        "eventSummary": "무라에서 이탈리아행 알렉산드리아 배로 갈아탔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-03",
+        "nextStopId": "jr-05",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:5-6"
+      },
+      {
+        "id": "jr-05",
+        "placeId": "cnidus",
+        "order": 5,
+        "bibleReference": "Acts 27:7",
+        "eventSummary": "여러 날 더디게 항해하여 니도 맞은편에 가까스로 이르렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-04",
+        "nextStopId": "jr-06",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7"
+      },
+      {
+        "id": "jr-06",
+        "placeId": "salmone",
+        "order": 6,
+        "bibleReference": "Acts 27:7",
+        "eventSummary": "바람을 피해 살모네 앞을 지나 크레타 아래로 항해했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-05",
+        "nextStopId": "jr-07",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:7"
+      },
+      {
+        "id": "jr-07",
+        "placeId": "fair_havens",
+        "order": 7,
+        "bibleReference": "Acts 27:8-12",
+        "eventSummary": "미항에 도착했다. 바울은 항해 위험을 경고했으나 다수는 뵈닉스로 가려 했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-06",
+        "nextStopId": "jr-08",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:8-12"
+      },
+      {
+        "id": "jr-08",
+        "placeId": "malta",
+        "order": 8,
+        "bibleReference": "Acts 27:13-28:11",
+        "eventSummary": "유라굴로 폭풍과 14일 표류 후 파선했으나 276명 모두 구조되었다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus",
+          "julius"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-07",
+        "nextStopId": "jr-09",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 27:13-28:11"
+      },
+      {
+        "id": "jr-09",
+        "placeId": "syracuse",
+        "order": 9,
+        "bibleReference": "Acts 28:11-12",
+        "eventSummary": "석 달 후 알렉산드리아 배를 타고 수라구사에서 사흘 머물렀다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-08",
+        "nextStopId": "jr-10",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:11-12"
+      },
+      {
+        "id": "jr-10",
+        "placeId": "rhegium",
+        "order": 10,
+        "bibleReference": "Acts 28:13",
+        "eventSummary": "레기온에 이르렀고 남풍을 타고 보디올로 향했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-09",
+        "nextStopId": "jr-11",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13"
+      },
+      {
+        "id": "jr-11",
+        "placeId": "puteoli",
+        "order": 11,
+        "bibleReference": "Acts 28:13-14",
+        "eventSummary": "형제들을 만나 이레를 함께 지냈다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "sea",
+        "status": "visited",
+        "previousStopId": "jr-10",
+        "nextStopId": "jr-12",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:13-14"
+      },
+      {
+        "id": "jr-12",
+        "placeId": "forum_appius",
+        "order": 12,
+        "bibleReference": "Acts 28:15",
+        "eventSummary": "로마의 형제들이 압비오 광장까지 맞으러 왔다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "jr-11",
+        "nextStopId": "jr-13",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15"
+      },
+      {
+        "id": "jr-13",
+        "placeId": "three_taverns",
+        "order": 13,
+        "bibleReference": "Acts 28:15",
+        "eventSummary": "삼관에서도 형제들을 만나 바울이 하나님께 감사하고 담대한 마음을 얻었다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "jr-12",
+        "nextStopId": "jr-14",
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:15"
+      },
+      {
+        "id": "jr-14",
+        "placeId": "rome",
+        "order": 14,
+        "bibleReference": "Acts 28:16-31",
+        "eventSummary": "따로 거주할 허락을 받고 두 해 동안 하나님 나라를 전했다.",
+        "confidence": "explicit",
+        "companions": [
+          "paul",
+          "luke",
+          "aristarchus"
+        ],
+        "travelModeFromPrevious": "land",
+        "status": "visited",
+        "previousStopId": "jr-13",
+        "nextStopId": null,
+        "sourceType": "Bible",
+        "sourceReference": "Acts 28:16-31"
+      }
+    ],
+    "sourceType": "Bible",
+    "sourceReference": "Acts 27:1-28:31"
+  }
+]

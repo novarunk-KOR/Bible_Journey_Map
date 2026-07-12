@@ -1,0 +1,51 @@
+[
+  {
+    "id": "turkey",
+    "nameKo": "튀르키예",
+    "nameEn": "Türkiye",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "cyprus",
+    "nameKo": "키프로스",
+    "nameEn": "Cyprus",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "greece",
+    "nameKo": "그리스",
+    "nameEn": "Greece",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "israel",
+    "nameKo": "이스라엘·팔레스타인 지역",
+    "nameEn": "Israel / Palestinian Territories",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "lebanon",
+    "nameKo": "레바논",
+    "nameEn": "Lebanon",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "malta",
+    "nameKo": "몰타",
+    "nameEn": "Malta",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  },
+  {
+    "id": "italy",
+    "nameKo": "이탈리아",
+    "nameEn": "Italy",
+    "sourceType": "Historical",
+    "sourceReference": "Modern country label used for present-day geographic orientation"
+  }
+]

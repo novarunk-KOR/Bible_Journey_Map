@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-labelledby="title desc">
+  <title id="title">고대 도시 추상 이미지</title><desc id="desc">푸른 지중해와 금빛 고대 도시를 단순한 도형으로 표현한 플레이스홀더</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6efff"/><stop offset="1" stop-color="#fff7df"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7aa8f8"/><stop offset="1" stop-color="#2f6fed"/></linearGradient></defs>
+  <rect width="800" height="320" fill="url(#bg)"/><circle cx="660" cy="72" r="34" fill="#e6ad39" opacity=".82"/>
+  <path d="M0 235c130-50 230 40 350 0s220-35 450 15v70H0z" fill="url(#sea)" opacity=".9"/>
+  <g fill="#fff" opacity=".92"><path d="M115 208h180v36H115z"/><path d="M145 154h120v90H145z"/><path d="M172 120h66v124h-66z"/><path d="M178 102h54l-27-28z"/><path d="M343 178h170v66H343z"/><path d="M380 135h95v109h-95z"/><path d="M397 108h61v136h-61z"/></g>
+  <g fill="#d99a21" opacity=".85"><rect x="190" y="171" width="30" height="73" rx="15"/><rect x="415" y="184" width="25" height="60" rx="12"/></g>
+  <path d="M70 248c170-18 325 20 510-2 66-8 116-5 160 2" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+</svg>
