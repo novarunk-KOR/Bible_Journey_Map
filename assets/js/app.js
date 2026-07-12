@@ -114,9 +114,11 @@ function initMap() {
   }).setView([38.2, 23.2], 4);
 
   L.control.zoom({ position: 'topleft' }).addTo(state.map);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  // Use a label-free basemap so place names can follow the UI language selector.
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+    subdomains: 'abcd',
     maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
     crossOrigin: true
   }).addTo(state.map);
 
@@ -125,6 +127,7 @@ function initMap() {
     if (event.originalEvent?.target?.closest?.('.leaflet-marker-icon')) return;
     hideSearchResults();
   });
+  state.map.on('zoomend', renderMarkers);
 }
 
 function createJourneyTabs() {
@@ -193,7 +196,14 @@ function renderMarkers() {
       riseOnHover: true,
       title: `${getPlaceName(place)} (${place.modernName})`
     });
-    marker.bindTooltip(getPlaceName(place), { className: 'place-tooltip', direction: 'top', offset: [0,-4] });
+    const showPermanentLabel = state.activeJourneyId !== 'all' || state.map.getZoom() >= 5 || place.id === state.selectedPlaceId;
+    marker.bindTooltip(getPlaceName(place), {
+      className: `place-tooltip${showPermanentLabel ? ' map-place-label' : ''}`,
+      direction: 'top',
+      offset: [0,-4],
+      permanent: showPermanentLabel,
+      opacity: 1
+    });
     marker.on('click', () => {
       const matchingStops = getStopRecords(place.id).filter(record => state.activeJourneyId === 'all' || record.journey.id === state.activeJourneyId);
       openPlace(place.id, matchingStops[0]?.id ?? null, { fly: false });
