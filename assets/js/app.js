@@ -74,7 +74,10 @@ const formatBibleReference = value => String(value ?? '')
     return endChapter
       ? `사도행전 ${chapter}장 ${start}절–${endChapter}장 ${end}절`
       : `사도행전 ${chapter}장 ${start}–${end}절`;
-  });
+  })
+  .replace(/\bActs\s+(\d+)-(\d+)/gi, '사도행전 $1–$2장')
+  .replace(/\bActs\s+(\d+)/gi, '사도행전 $1장')
+  .replace(/\bActs\b/gi, '사도행전');
 const getJourney = id => state.data.journeys.find(item => item.id === id);
 const getPlace = id => state.data.cities.find(item => item.id === id);
 const getPerson = id => state.data.people.find(item => item.id === id);
